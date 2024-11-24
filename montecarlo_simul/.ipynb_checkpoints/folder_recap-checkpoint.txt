@@ -1,0 +1,1 @@
+esta nova folder serve so para testar um montecarlo simples, envolve a normalizacao do dataset extraido do yfinance
