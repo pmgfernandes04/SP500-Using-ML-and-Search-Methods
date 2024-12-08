@@ -1,0 +1,2601 @@
+
+==================================================
+|                   Iteration  1                   |
+==================================================
+
+Date: 2024-01-02
+Available (with buy signal): ['AAPL', 'META', 'NFLX', 'INTC', 'ADBE']
+Purchase: {'META': 2}
+Updated Inventory: {'META': 2}
+Updated Inventory Value: 692.58
+Updated Balance: 1306
+
+
+Date: 2024-01-03
+Available (with buy signal): ['MSFT', 'TSLA', 'NFLX', 'AMD', 'CRM', 'SMCI']
+Purchase: {'SMCI': 2}
+Updated Inventory: {'META': 2, 'SMCI': 2}
+Updated Inventory Value: 745.06
+Updated Balance: 1249
+
+
+Date: 2024-01-04
+Available (with buy signal): ['GOOG', 'AMZN', 'NVDA', 'INTC', 'ADBE']
+Purchase: {'AMZN': 2}
+Updated Inventory: {'META': 2, 'SMCI': 2, 'AMZN': 2}
+Updated Inventory Value: 1041.14
+Updated Balance: 959
+
+
+Date: 2024-01-05
+Available (with buy signal): ['AAPL', 'META', 'NVDA', 'SPGI', 'PYPL']
+Purchase: {'PYPL': 1}
+Updated Inventory: {'META': 2, 'SMCI': 2, 'AMZN': 2, 'PYPL': 1}
+Updated Inventory Value: 1112.92
+Updated Balance: 898
+
+
+Date: 2024-01-08
+Available (with buy signal): ['MSFT', 'TSLA', 'NFLX', 'INTC', 'PYPL']
+Purchase: {'MSFT': 1}
+Updated Inventory: {'META': 2, 'SMCI': 2, 'AMZN': 2, 'PYPL': 1, 'MSFT': 1}
+Updated Inventory Value: 1516.01
+Updated Balance: 522
+
+
+Date: 2024-01-09
+Available (with buy signal): ['GOOG', 'NVDA', 'SPGI', 'PYPL']
+Purchase: {'PYPL': 1}
+Updated Inventory: {'META': 2, 'SMCI': 2, 'AMZN': 2, 'PYPL': 2, 'MSFT': 1}
+Updated Inventory Value: 1584.23
+Updated Balance: 460
+
+
+Date: 2024-01-10
+Available (with buy signal): ['AAPL', 'MSFT', 'AMZN', 'SPGI', 'SMCI']
+Purchase: {'AAPL': 2}
+Updated Inventory: {'META': 2, 'SMCI': 2, 'AMZN': 2, 'PYPL': 2, 'MSFT': 1, 'AAPL': 2}
+Updated Inventory Value: 1993.95
+Updated Balance: 87
+
+1 failed attempt for a purchase for 2024-01-11.
+
+2 failed attempt for a purchase for 2024-01-11.
+
+3 failed attempt for a purchase for 2024-01-11.
+
+4 failed attempt for a purchase for 2024-01-11.
+
+5 failed attempt for a purchase for 2024-01-11.
+
+
+Date: 2024-01-11
+Available (with buy signal): ['GOOG', 'TSLA', 'NVDA', 'ADBE']
+Purchase: {'NVDA': 1}
+Updated Inventory: {'META': 2, 'SMCI': 2, 'AMZN': 2, 'PYPL': 2, 'MSFT': 1, 'AAPL': 2, 'NVDA': 1}
+Updated Inventory Value: 2051.69
+Updated Balance: 31
+
+1 failed attempt for a purchase for 2024-01-12.
+
+2 failed attempt for a purchase for 2024-01-12.
+
+3 failed attempt for a purchase for 2024-01-12.
+
+4 failed attempt for a purchase for 2024-01-12.
+
+5 failed attempt for a purchase for 2024-01-12.
+
+6 failed attempt for a purchase for 2024-01-12.
+
+7 failed attempt for a purchase for 2024-01-12.
+
+8 failed attempt for a purchase for 2024-01-12.
+
+9 failed attempt for a purchase for 2024-01-12.
+
+10 failed attempt for a purchase for 2024-01-12.
+
+
+Date: 2024-01-12
+Available (with buy signal): ['META', 'AMD', 'CRM']
+Purchase: {}
+Updated Inventory: {'META': 2, 'SMCI': 2, 'AMZN': 2, 'PYPL': 2, 'MSFT': 1, 'AAPL': 2, 'NVDA': 1}
+Updated Inventory Value: 2063.16
+Updated Balance: 31
+
+1 failed attempt for a purchase for 2024-01-16.
+
+2 failed attempt for a purchase for 2024-01-16.
+
+3 failed attempt for a purchase for 2024-01-16.
+
+4 failed attempt for a purchase for 2024-01-16.
+
+5 failed attempt for a purchase for 2024-01-16.
+
+6 failed attempt for a purchase for 2024-01-16.
+
+7 failed attempt for a purchase for 2024-01-16.
+
+8 failed attempt for a purchase for 2024-01-16.
+
+9 failed attempt for a purchase for 2024-01-16.
+
+10 failed attempt for a purchase for 2024-01-16.
+
+
+Date: 2024-01-16
+Available (with buy signal): ['AAPL', 'GOOG', 'TSLA', 'NFLX', 'INTC', 'CRM', 'PYPL']
+Purchase: {}
+Updated Inventory: {'META': 2, 'SMCI': 2, 'AMZN': 2, 'PYPL': 2, 'MSFT': 1, 'AAPL': 2, 'NVDA': 1}
+Updated Inventory Value: 2037.31
+Updated Balance: 31
+
+--------------------------------------------------------------------------------------
+
+==================================================
+|                   Iteration  2                   |
+==================================================
+
+Date: 2024-01-02
+Available (with buy signal): ['AAPL', 'META', 'NFLX', 'INTC', 'ADBE']
+Purchase: {'META': 2}
+Updated Inventory: {'META': 2}
+Updated Inventory Value: 692.58
+Updated Balance: 1306
+
+
+Date: 2024-01-03
+Available (with buy signal): ['MSFT', 'TSLA', 'NFLX', 'AMD', 'CRM', 'SMCI']
+Purchase: {'CRM': 1}
+Updated Inventory: {'META': 2, 'CRM': 1}
+Updated Inventory Value: 940.78
+Updated Balance: 1054
+
+
+Date: 2024-01-04
+Available (with buy signal): ['GOOG', 'AMZN', 'NVDA', 'INTC', 'ADBE']
+Purchase: {'AMZN': 1}
+Updated Inventory: {'META': 2, 'CRM': 1, 'AMZN': 1}
+Updated Inventory Value: 1090.05
+Updated Balance: 908
+
+
+Date: 2024-01-05
+Available (with buy signal): ['AAPL', 'META', 'NVDA', 'SPGI', 'PYPL']
+Purchase: {'SPGI': 1}
+Updated Inventory: {'META': 2, 'CRM': 1, 'AMZN': 1, 'SPGI': 1}
+Updated Inventory Value: 1528.19
+Updated Balance: 479
+
+
+Date: 2024-01-08
+Available (with buy signal): ['MSFT', 'TSLA', 'NFLX', 'INTC', 'PYPL']
+Purchase: {'PYPL': 1}
+Updated Inventory: {'META': 2, 'CRM': 1, 'AMZN': 1, 'SPGI': 1, 'PYPL': 1}
+Updated Inventory Value: 1621.2
+Updated Balance: 416
+
+
+Date: 2024-01-09
+Available (with buy signal): ['GOOG', 'NVDA', 'SPGI', 'PYPL']
+Purchase: {'PYPL': 1}
+Updated Inventory: {'META': 2, 'CRM': 1, 'AMZN': 1, 'SPGI': 1, 'PYPL': 2}
+Updated Inventory Value: 1679.84
+Updated Balance: 354
+
+1 failed attempt for a purchase for 2024-01-10.
+
+
+Date: 2024-01-10
+Available (with buy signal): ['AAPL', 'MSFT', 'AMZN', 'SPGI', 'SMCI']
+Purchase: {'SMCI': 2}
+Updated Inventory: {'META': 2, 'CRM': 1, 'AMZN': 1, 'SPGI': 1, 'PYPL': 2, 'SMCI': 2}
+Updated Inventory Value: 1782.33
+Updated Balance: 285
+
+
+Date: 2024-01-11
+Available (with buy signal): ['GOOG', 'TSLA', 'NVDA', 'ADBE']
+Purchase: {'NVDA': 2}
+Updated Inventory: {'META': 2, 'CRM': 1, 'AMZN': 1, 'SPGI': 1, 'PYPL': 2, 'SMCI': 2, 'NVDA': 2}
+Updated Inventory Value: 1901.09
+Updated Balance: 174
+
+1 failed attempt for a purchase for 2024-01-12.
+
+2 failed attempt for a purchase for 2024-01-12.
+
+3 failed attempt for a purchase for 2024-01-12.
+
+4 failed attempt for a purchase for 2024-01-12.
+
+5 failed attempt for a purchase for 2024-01-12.
+
+
+Date: 2024-01-12
+Available (with buy signal): ['META', 'AMD', 'CRM']
+Purchase: {'AMD': 1}
+Updated Inventory: {'META': 2, 'CRM': 1, 'AMZN': 1, 'SPGI': 1, 'PYPL': 2, 'SMCI': 2, 'NVDA': 2, 'AMD': 1}
+Updated Inventory Value: 2058.43
+Updated Balance: 27
+
+1 failed attempt for a purchase for 2024-01-16.
+
+2 failed attempt for a purchase for 2024-01-16.
+
+3 failed attempt for a purchase for 2024-01-16.
+
+4 failed attempt for a purchase for 2024-01-16.
+
+5 failed attempt for a purchase for 2024-01-16.
+
+6 failed attempt for a purchase for 2024-01-16.
+
+7 failed attempt for a purchase for 2024-01-16.
+
+8 failed attempt for a purchase for 2024-01-16.
+
+9 failed attempt for a purchase for 2024-01-16.
+
+10 failed attempt for a purchase for 2024-01-16.
+
+
+Date: 2024-01-16
+Available (with buy signal): ['AAPL', 'GOOG', 'TSLA', 'NFLX', 'INTC', 'CRM', 'PYPL']
+Purchase: {}
+Updated Inventory: {'META': 2, 'CRM': 1, 'AMZN': 1, 'SPGI': 1, 'PYPL': 2, 'SMCI': 2, 'NVDA': 2, 'AMD': 1}
+Updated Inventory Value: 2047.48
+Updated Balance: 27
+
+--------------------------------------------------------------------------------------
+
+==================================================
+|                   Iteration  3                   |
+==================================================
+
+Date: 2024-01-02
+Available (with buy signal): ['AAPL', 'META', 'NFLX', 'INTC', 'ADBE']
+Purchase: {'NFLX': 1}
+Updated Inventory: {'NFLX': 1}
+Updated Inventory Value: 468.5
+Updated Balance: 1530
+
+
+Date: 2024-01-03
+Available (with buy signal): ['MSFT', 'TSLA', 'NFLX', 'AMD', 'CRM', 'SMCI']
+Purchase: {'TSLA': 1}
+Updated Inventory: {'NFLX': 1, 'TSLA': 1}
+Updated Inventory Value: 708.71
+Updated Balance: 1291
+
+
+Date: 2024-01-04
+Available (with buy signal): ['GOOG', 'AMZN', 'NVDA', 'INTC', 'ADBE']
+Purchase: {'ADBE': 2}
+Updated Inventory: {'NFLX': 1, 'TSLA': 1, 'ADBE': 2}
+Updated Inventory Value: 1846.7
+Updated Balance: 156
+
+
+Date: 2024-01-05
+Available (with buy signal): ['AAPL', 'META', 'NVDA', 'SPGI', 'PYPL']
+Purchase: {'NVDA': 1}
+Updated Inventory: {'NFLX': 1, 'TSLA': 1, 'ADBE': 2, 'NVDA': 1}
+Updated Inventory Value: 1889.85
+Updated Balance: 106
+
+
+Date: 2024-01-08
+Available (with buy signal): ['MSFT', 'TSLA', 'NFLX', 'INTC', 'PYPL']
+Purchase: {'PYPL': 1}
+Updated Inventory: {'NFLX': 1, 'TSLA': 1, 'ADBE': 2, 'NVDA': 1, 'PYPL': 1}
+Updated Inventory Value: 2000.57
+Updated Balance: 43
+
+1 failed attempt for a purchase for 2024-01-09.
+
+2 failed attempt for a purchase for 2024-01-09.
+
+3 failed attempt for a purchase for 2024-01-09.
+
+4 failed attempt for a purchase for 2024-01-09.
+
+5 failed attempt for a purchase for 2024-01-09.
+
+6 failed attempt for a purchase for 2024-01-09.
+
+7 failed attempt for a purchase for 2024-01-09.
+
+8 failed attempt for a purchase for 2024-01-09.
+
+9 failed attempt for a purchase for 2024-01-09.
+
+10 failed attempt for a purchase for 2024-01-09.
+
+
+Date: 2024-01-09
+Available (with buy signal): ['GOOG', 'NVDA', 'SPGI', 'PYPL']
+Purchase: {}
+Updated Inventory: {'NFLX': 1, 'TSLA': 1, 'ADBE': 2, 'NVDA': 1, 'PYPL': 1}
+Updated Inventory Value: 2003.64
+Updated Balance: 43
+
+1 failed attempt for a purchase for 2024-01-10.
+
+2 failed attempt for a purchase for 2024-01-10.
+
+3 failed attempt for a purchase for 2024-01-10.
+
+4 failed attempt for a purchase for 2024-01-10.
+
+5 failed attempt for a purchase for 2024-01-10.
+
+6 failed attempt for a purchase for 2024-01-10.
+
+7 failed attempt for a purchase for 2024-01-10.
+
+8 failed attempt for a purchase for 2024-01-10.
+
+9 failed attempt for a purchase for 2024-01-10.
+
+10 failed attempt for a purchase for 2024-01-10.
+
+
+Date: 2024-01-10
+Available (with buy signal): ['AAPL', 'MSFT', 'AMZN', 'SPGI', 'SMCI']
+Purchase: {}
+Updated Inventory: {'NFLX': 1, 'TSLA': 1, 'ADBE': 2, 'NVDA': 1, 'PYPL': 1}
+Updated Inventory Value: 2009.64
+Updated Balance: 43
+
+1 failed attempt for a purchase for 2024-01-11.
+
+2 failed attempt for a purchase for 2024-01-11.
+
+3 failed attempt for a purchase for 2024-01-11.
+
+4 failed attempt for a purchase for 2024-01-11.
+
+5 failed attempt for a purchase for 2024-01-11.
+
+6 failed attempt for a purchase for 2024-01-11.
+
+7 failed attempt for a purchase for 2024-01-11.
+
+8 failed attempt for a purchase for 2024-01-11.
+
+9 failed attempt for a purchase for 2024-01-11.
+
+10 failed attempt for a purchase for 2024-01-11.
+
+
+Date: 2024-01-11
+Available (with buy signal): ['GOOG', 'TSLA', 'NVDA', 'ADBE']
+Purchase: {}
+Updated Inventory: {'NFLX': 1, 'TSLA': 1, 'ADBE': 2, 'NVDA': 1, 'PYPL': 1}
+Updated Inventory Value: 2030.6
+Updated Balance: 43
+
+1 failed attempt for a purchase for 2024-01-12.
+
+2 failed attempt for a purchase for 2024-01-12.
+
+3 failed attempt for a purchase for 2024-01-12.
+
+4 failed attempt for a purchase for 2024-01-12.
+
+5 failed attempt for a purchase for 2024-01-12.
+
+6 failed attempt for a purchase for 2024-01-12.
+
+7 failed attempt for a purchase for 2024-01-12.
+
+8 failed attempt for a purchase for 2024-01-12.
+
+9 failed attempt for a purchase for 2024-01-12.
+
+10 failed attempt for a purchase for 2024-01-12.
+
+
+Date: 2024-01-12
+Available (with buy signal): ['META', 'AMD', 'CRM']
+Purchase: {}
+Updated Inventory: {'NFLX': 1, 'TSLA': 1, 'ADBE': 2, 'NVDA': 1, 'PYPL': 1}
+Updated Inventory Value: 2019.84
+Updated Balance: 43
+
+1 failed attempt for a purchase for 2024-01-16.
+
+2 failed attempt for a purchase for 2024-01-16.
+
+3 failed attempt for a purchase for 2024-01-16.
+
+4 failed attempt for a purchase for 2024-01-16.
+
+5 failed attempt for a purchase for 2024-01-16.
+
+6 failed attempt for a purchase for 2024-01-16.
+
+7 failed attempt for a purchase for 2024-01-16.
+
+8 failed attempt for a purchase for 2024-01-16.
+
+9 failed attempt for a purchase for 2024-01-16.
+
+10 failed attempt for a purchase for 2024-01-16.
+
+
+Date: 2024-01-16
+Available (with buy signal): ['AAPL', 'GOOG', 'TSLA', 'NFLX', 'INTC', 'CRM', 'PYPL']
+Purchase: {}
+Updated Inventory: {'NFLX': 1, 'TSLA': 1, 'ADBE': 2, 'NVDA': 1, 'PYPL': 1}
+Updated Inventory Value: 2011.34
+Updated Balance: 43
+
+--------------------------------------------------------------------------------------
+
+==================================================
+|                   Iteration  4                   |
+==================================================
+
+Date: 2024-01-02
+Available (with buy signal): ['AAPL', 'META', 'NFLX', 'INTC', 'ADBE']
+Purchase: {'INTC': 1}
+Updated Inventory: {'INTC': 1}
+Updated Inventory Value: 47.8
+Updated Balance: 1951
+
+
+Date: 2024-01-03
+Available (with buy signal): ['MSFT', 'TSLA', 'NFLX', 'AMD', 'CRM', 'SMCI']
+Purchase: {'SMCI': 2}
+Updated Inventory: {'INTC': 1, 'SMCI': 2}
+Updated Inventory Value: 103.17
+Updated Balance: 1894
+
+
+Date: 2024-01-04
+Available (with buy signal): ['GOOG', 'AMZN', 'NVDA', 'INTC', 'ADBE']
+Purchase: {'INTC': 1}
+Updated Inventory: {'INTC': 2, 'SMCI': 2}
+Updated Inventory Value: 151.5
+Updated Balance: 1846
+
+
+Date: 2024-01-05
+Available (with buy signal): ['AAPL', 'META', 'NVDA', 'SPGI', 'PYPL']
+Purchase: {'META': 2}
+Updated Inventory: {'INTC': 2, 'SMCI': 2, 'META': 2}
+Updated Inventory Value: 856.1
+Updated Balance: 1141
+
+
+Date: 2024-01-08
+Available (with buy signal): ['MSFT', 'TSLA', 'NFLX', 'INTC', 'PYPL']
+Purchase: {'MSFT': 2}
+Updated Inventory: {'INTC': 2, 'SMCI': 2, 'META': 2, 'MSFT': 2}
+Updated Inventory Value: 1627.66
+Updated Balance: 391
+
+
+Date: 2024-01-09
+Available (with buy signal): ['GOOG', 'NVDA', 'SPGI', 'PYPL']
+Purchase: {'PYPL': 2}
+Updated Inventory: {'INTC': 2, 'SMCI': 2, 'META': 2, 'MSFT': 2, 'PYPL': 2}
+Updated Inventory Value: 1753.38
+Updated Balance: 268
+
+
+Date: 2024-01-10
+Available (with buy signal): ['AAPL', 'MSFT', 'AMZN', 'SPGI', 'SMCI']
+Purchase: {'AAPL': 1}
+Updated Inventory: {'INTC': 2, 'SMCI': 2, 'META': 2, 'MSFT': 2, 'PYPL': 2, 'AAPL': 1}
+Updated Inventory Value: 1978.01
+Updated Balance: 81
+
+1 failed attempt for a purchase for 2024-01-11.
+
+2 failed attempt for a purchase for 2024-01-11.
+
+3 failed attempt for a purchase for 2024-01-11.
+
+4 failed attempt for a purchase for 2024-01-11.
+
+5 failed attempt for a purchase for 2024-01-11.
+
+6 failed attempt for a purchase for 2024-01-11.
+
+7 failed attempt for a purchase for 2024-01-11.
+
+
+Date: 2024-01-11
+Available (with buy signal): ['GOOG', 'TSLA', 'NVDA', 'ADBE']
+Purchase: {'NVDA': 1}
+Updated Inventory: {'INTC': 2, 'SMCI': 2, 'META': 2, 'MSFT': 2, 'PYPL': 2, 'AAPL': 1, 'NVDA': 1}
+Updated Inventory Value: 2035.65
+Updated Balance: 25
+
+1 failed attempt for a purchase for 2024-01-12.
+
+2 failed attempt for a purchase for 2024-01-12.
+
+3 failed attempt for a purchase for 2024-01-12.
+
+4 failed attempt for a purchase for 2024-01-12.
+
+5 failed attempt for a purchase for 2024-01-12.
+
+6 failed attempt for a purchase for 2024-01-12.
+
+7 failed attempt for a purchase for 2024-01-12.
+
+8 failed attempt for a purchase for 2024-01-12.
+
+9 failed attempt for a purchase for 2024-01-12.
+
+10 failed attempt for a purchase for 2024-01-12.
+
+
+Date: 2024-01-12
+Available (with buy signal): ['META', 'AMD', 'CRM']
+Purchase: {}
+Updated Inventory: {'INTC': 2, 'SMCI': 2, 'META': 2, 'MSFT': 2, 'PYPL': 2, 'AAPL': 1, 'NVDA': 1}
+Updated Inventory Value: 2050.71
+Updated Balance: 25
+
+1 failed attempt for a purchase for 2024-01-16.
+
+2 failed attempt for a purchase for 2024-01-16.
+
+3 failed attempt for a purchase for 2024-01-16.
+
+4 failed attempt for a purchase for 2024-01-16.
+
+5 failed attempt for a purchase for 2024-01-16.
+
+6 failed attempt for a purchase for 2024-01-16.
+
+7 failed attempt for a purchase for 2024-01-16.
+
+8 failed attempt for a purchase for 2024-01-16.
+
+9 failed attempt for a purchase for 2024-01-16.
+
+10 failed attempt for a purchase for 2024-01-16.
+
+
+Date: 2024-01-16
+Available (with buy signal): ['AAPL', 'GOOG', 'TSLA', 'NFLX', 'INTC', 'CRM', 'PYPL']
+Purchase: {}
+Updated Inventory: {'INTC': 2, 'SMCI': 2, 'META': 2, 'MSFT': 2, 'PYPL': 2, 'AAPL': 1, 'NVDA': 1}
+Updated Inventory Value: 2031.75
+Updated Balance: 25
+
+--------------------------------------------------------------------------------------
+
+==================================================
+|                   Iteration  5                   |
+==================================================
+
+Date: 2024-01-02
+Available (with buy signal): ['AAPL', 'META', 'NFLX', 'INTC', 'ADBE']
+Purchase: {'NFLX': 1}
+Updated Inventory: {'NFLX': 1}
+Updated Inventory Value: 468.5
+Updated Balance: 1530
+
+
+Date: 2024-01-03
+Available (with buy signal): ['MSFT', 'TSLA', 'NFLX', 'AMD', 'CRM', 'SMCI']
+Purchase: {'SMCI': 1}
+Updated Inventory: {'NFLX': 1, 'SMCI': 1}
+Updated Inventory Value: 498.32
+Updated Balance: 1501
+
+
+Date: 2024-01-04
+Available (with buy signal): ['GOOG', 'AMZN', 'NVDA', 'INTC', 'ADBE']
+Purchase: {'ADBE': 2}
+Updated Inventory: {'NFLX': 1, 'SMCI': 1, 'ADBE': 2}
+Updated Inventory Value: 1637.65
+Updated Balance: 366
+
+
+Date: 2024-01-05
+Available (with buy signal): ['AAPL', 'META', 'NVDA', 'SPGI', 'PYPL']
+Purchase: {'PYPL': 2}
+Updated Inventory: {'NFLX': 1, 'SMCI': 1, 'ADBE': 2, 'PYPL': 2}
+Updated Inventory Value: 1752.71
+Updated Balance: 245
+
+
+Date: 2024-01-08
+Available (with buy signal): ['MSFT', 'TSLA', 'NFLX', 'INTC', 'PYPL']
+Purchase: {'PYPL': 2}
+Updated Inventory: {'NFLX': 1, 'SMCI': 1, 'ADBE': 2, 'PYPL': 4}
+Updated Inventory Value: 1925.12
+Updated Balance: 121
+
+1 failed attempt for a purchase for 2024-01-09.
+
+2 failed attempt for a purchase for 2024-01-09.
+
+3 failed attempt for a purchase for 2024-01-09.
+
+4 failed attempt for a purchase for 2024-01-09.
+
+5 failed attempt for a purchase for 2024-01-09.
+
+
+Date: 2024-01-09
+Available (with buy signal): ['GOOG', 'NVDA', 'SPGI', 'PYPL']
+Purchase: {'NVDA': 2}
+Updated Inventory: {'NFLX': 1, 'SMCI': 1, 'ADBE': 2, 'PYPL': 4, 'NVDA': 2}
+Updated Inventory Value: 2039.34
+Updated Balance: 13
+
+1 failed attempt for a purchase for 2024-01-10.
+
+2 failed attempt for a purchase for 2024-01-10.
+
+3 failed attempt for a purchase for 2024-01-10.
+
+4 failed attempt for a purchase for 2024-01-10.
+
+5 failed attempt for a purchase for 2024-01-10.
+
+6 failed attempt for a purchase for 2024-01-10.
+
+7 failed attempt for a purchase for 2024-01-10.
+
+8 failed attempt for a purchase for 2024-01-10.
+
+9 failed attempt for a purchase for 2024-01-10.
+
+10 failed attempt for a purchase for 2024-01-10.
+
+
+Date: 2024-01-10
+Available (with buy signal): ['AAPL', 'MSFT', 'AMZN', 'SPGI', 'SMCI']
+Purchase: {}
+Updated Inventory: {'NFLX': 1, 'SMCI': 1, 'ADBE': 2, 'PYPL': 4, 'NVDA': 2}
+Updated Inventory Value: 2047.17
+Updated Balance: 13
+
+1 failed attempt for a purchase for 2024-01-11.
+
+2 failed attempt for a purchase for 2024-01-11.
+
+3 failed attempt for a purchase for 2024-01-11.
+
+4 failed attempt for a purchase for 2024-01-11.
+
+5 failed attempt for a purchase for 2024-01-11.
+
+6 failed attempt for a purchase for 2024-01-11.
+
+7 failed attempt for a purchase for 2024-01-11.
+
+8 failed attempt for a purchase for 2024-01-11.
+
+9 failed attempt for a purchase for 2024-01-11.
+
+10 failed attempt for a purchase for 2024-01-11.
+
+
+Date: 2024-01-11
+Available (with buy signal): ['GOOG', 'TSLA', 'NVDA', 'ADBE']
+Purchase: {}
+Updated Inventory: {'NFLX': 1, 'SMCI': 1, 'ADBE': 2, 'PYPL': 4, 'NVDA': 2}
+Updated Inventory Value: 2076.58
+Updated Balance: 13
+
+1 failed attempt for a purchase for 2024-01-12.
+
+2 failed attempt for a purchase for 2024-01-12.
+
+3 failed attempt for a purchase for 2024-01-12.
+
+4 failed attempt for a purchase for 2024-01-12.
+
+5 failed attempt for a purchase for 2024-01-12.
+
+6 failed attempt for a purchase for 2024-01-12.
+
+7 failed attempt for a purchase for 2024-01-12.
+
+8 failed attempt for a purchase for 2024-01-12.
+
+9 failed attempt for a purchase for 2024-01-12.
+
+10 failed attempt for a purchase for 2024-01-12.
+
+
+Date: 2024-01-12
+Available (with buy signal): ['META', 'AMD', 'CRM']
+Purchase: {}
+Updated Inventory: {'NFLX': 1, 'SMCI': 1, 'ADBE': 2, 'PYPL': 4, 'NVDA': 2}
+Updated Inventory Value: 2072.62
+Updated Balance: 13
+
+1 failed attempt for a purchase for 2024-01-16.
+
+2 failed attempt for a purchase for 2024-01-16.
+
+3 failed attempt for a purchase for 2024-01-16.
+
+4 failed attempt for a purchase for 2024-01-16.
+
+5 failed attempt for a purchase for 2024-01-16.
+
+6 failed attempt for a purchase for 2024-01-16.
+
+7 failed attempt for a purchase for 2024-01-16.
+
+8 failed attempt for a purchase for 2024-01-16.
+
+9 failed attempt for a purchase for 2024-01-16.
+
+10 failed attempt for a purchase for 2024-01-16.
+
+
+Date: 2024-01-16
+Available (with buy signal): ['AAPL', 'GOOG', 'TSLA', 'NFLX', 'INTC', 'CRM', 'PYPL']
+Purchase: {}
+Updated Inventory: {'NFLX': 1, 'SMCI': 1, 'ADBE': 2, 'PYPL': 4, 'NVDA': 2}
+Updated Inventory Value: 2055.79
+Updated Balance: 13
+
+--------------------------------------------------------------------------------------
+
+==================================================
+|                   Iteration  1                   |
+==================================================
+
+Date: 2024-01-02
+Available (with buy signal): ['MRNA', 'ANSS', 'WYNN', 'INTC', 'INCY', 'DG', 'LVS', 'TSN', 'K']
+Purchase: {'MRNA': 1}
+Updated Inventory: {'MRNA': 1}
+Updated Inventory Value: 112.5
+Updated Balance: 1886
+
+
+Date: 2024-01-03
+Available (with buy signal): ['C', 'MRNA', 'INCY', 'FE']
+Purchase: {'MRNA': 1}
+Updated Inventory: {'MRNA': 2}
+Updated Inventory Value: 217.16
+Updated Balance: 1777
+
+
+Date: 2024-01-04
+Available (with buy signal): ['C', 'MRNA', 'MRK', 'INCY']
+Purchase: {'INCY': 2}
+Updated Inventory: {'MRNA': 2, 'INCY': 2}
+Updated Inventory Value: 350.5
+Updated Balance: 1643
+
+
+Date: 2024-01-05
+Available (with buy signal): ['C', 'VTRS', 'MRNA', 'MRK', 'ALL']
+Purchase: {'ALL': 2}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2}
+Updated Inventory Value: 652.72
+Updated Balance: 1342
+
+
+Date: 2024-01-08
+Available (with buy signal): ['VTRS', 'MRNA', 'DAL', 'MRK', 'UAL', 'ALL']
+Purchase: {'DAL': 1}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1}
+Updated Inventory Value: 702.91
+Updated Balance: 1299
+
+
+Date: 2024-01-09
+Available (with buy signal): ['MRNA', 'SMCI', 'CTLT', 'DAL', 'MRK', 'UAL', 'MTCH', 'JNPR']
+Purchase: {'SMCI': 2}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1, 'SMCI': 2}
+Updated Inventory Value: 762.14
+Updated Balance: 1229
+
+
+Date: 2024-01-10
+Available (with buy signal): ['SMCI', 'CTLT', 'DAL', 'UBER', 'FICO', 'UAL', 'MTCH', 'CRWD', 'JNPR']
+Purchase: {'UAL': 1}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1, 'SMCI': 2, 'UAL': 1}
+Updated Inventory Value: 802.67
+Updated Balance: 1184
+
+
+Date: 2024-01-11
+Available (with buy signal): ['PANW', 'SMCI', 'CTLT', 'NVDA', 'DAL', 'UBER', 'FICO', 'UAL', 'CRWD', 'JNPR']
+Purchase: {'CTLT': 1}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1, 'SMCI': 2, 'UAL': 1, 'CTLT': 1}
+Updated Inventory Value: 846.06
+Updated Balance: 1133
+
+1 failed attempt for a purchase for 2024-01-12.
+
+
+Date: 2024-01-12
+Available (with buy signal): ['PANW', 'SMCI', 'CTLT', 'NVDA', 'UBER', 'FICO', 'CRWD', 'JNPR', 'CTSH']
+Purchase: {'CRWD': 1}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1, 'SMCI': 2, 'UAL': 1, 'CTLT': 1, 'CRWD': 1}
+Updated Inventory Value: 1118.29
+Updated Balance: 849
+
+
+Date: 2024-01-16
+Available (with buy signal): ['PANW', 'SMCI', 'ISRG', 'WDC', 'CTLT', 'NVDA', 'IBM', 'UBER', 'FICO', 'CRWD']
+Purchase: {'PANW': 2}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1, 'SMCI': 2, 'UAL': 1, 'CTLT': 1, 'CRWD': 1, 'PANW': 2}
+Updated Inventory Value: 1771.47
+Updated Balance: 184
+
+1 failed attempt for a purchase for 2024-01-17.
+
+2 failed attempt for a purchase for 2024-01-17.
+
+
+Date: 2024-01-17
+Available (with buy signal): ['PANW', 'SMCI', 'ISRG', 'WDC', 'NVDA', 'AMD', 'CRWD']
+Purchase: {'NVDA': 1}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1, 'SMCI': 2, 'UAL': 1, 'CTLT': 1, 'CRWD': 1, 'PANW': 2, 'NVDA': 1}
+Updated Inventory Value: 1808.44
+Updated Balance: 127
+
+1 failed attempt for a purchase for 2024-01-18.
+
+2 failed attempt for a purchase for 2024-01-18.
+
+3 failed attempt for a purchase for 2024-01-18.
+
+
+Date: 2024-01-18
+Available (with buy signal): ['PANW', 'ISRG', 'WDC', 'ANET', 'NVDA', 'AMAT', 'QCOM', 'UBER', 'AMD', 'CRWD', 'KLAC']
+Purchase: {'NVDA': 2}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1, 'SMCI': 2, 'UAL': 1, 'CTLT': 1, 'CRWD': 1, 'PANW': 2, 'NVDA': 3}
+Updated Inventory Value: 1941.18
+Updated Balance: 11
+
+1 failed attempt for a purchase for 2024-01-19.
+
+2 failed attempt for a purchase for 2024-01-19.
+
+3 failed attempt for a purchase for 2024-01-19.
+
+4 failed attempt for a purchase for 2024-01-19.
+
+5 failed attempt for a purchase for 2024-01-19.
+
+6 failed attempt for a purchase for 2024-01-19.
+
+7 failed attempt for a purchase for 2024-01-19.
+
+8 failed attempt for a purchase for 2024-01-19.
+
+9 failed attempt for a purchase for 2024-01-19.
+
+10 failed attempt for a purchase for 2024-01-19.
+
+
+Date: 2024-01-19
+Available (with buy signal): ['PANW', 'SMCI', 'ISRG', 'WDC', 'ANET', 'NVDA', 'ORLY', 'NOW', 'AMAT', 'CDNS', 'IBM', 'QCOM', 'AMD', 'CRWD', 'MU', 'DECK', 'AVGO', 'MCHP', 'LRCX', 'KLAC', 'MTB']
+Purchase: {}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1, 'SMCI': 2, 'UAL': 1, 'CTLT': 1, 'CRWD': 1, 'PANW': 2, 'NVDA': 3}
+Updated Inventory Value: 1986.62
+Updated Balance: 11
+
+1 failed attempt for a purchase for 2024-01-22.
+
+2 failed attempt for a purchase for 2024-01-22.
+
+3 failed attempt for a purchase for 2024-01-22.
+
+4 failed attempt for a purchase for 2024-01-22.
+
+5 failed attempt for a purchase for 2024-01-22.
+
+6 failed attempt for a purchase for 2024-01-22.
+
+7 failed attempt for a purchase for 2024-01-22.
+
+8 failed attempt for a purchase for 2024-01-22.
+
+9 failed attempt for a purchase for 2024-01-22.
+
+10 failed attempt for a purchase for 2024-01-22.
+
+
+Date: 2024-01-22
+Available (with buy signal): ['PANW', 'SMCI', 'ISRG', 'WDC', 'ANET', 'RF', 'NVDA', 'ORLY', 'SNPS', 'AMAT', 'CDNS', 'URI', 'IBM', 'QCOM', 'FICO', 'AMD', 'FAST', 'CRWD', 'MU', 'BLDR', 'TRV', 'JBHT', 'DECK', 'AVGO', 'MCHP', 'ODFL', 'LRCX', 'KLAC', 'MTB']
+Purchase: {}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1, 'SMCI': 2, 'UAL': 1, 'CTLT': 1, 'CRWD': 1, 'PANW': 2, 'NVDA': 3}
+Updated Inventory Value: 2014.58
+Updated Balance: 11
+
+1 failed attempt for a purchase for 2024-01-23.
+
+2 failed attempt for a purchase for 2024-01-23.
+
+3 failed attempt for a purchase for 2024-01-23.
+
+4 failed attempt for a purchase for 2024-01-23.
+
+5 failed attempt for a purchase for 2024-01-23.
+
+6 failed attempt for a purchase for 2024-01-23.
+
+7 failed attempt for a purchase for 2024-01-23.
+
+8 failed attempt for a purchase for 2024-01-23.
+
+9 failed attempt for a purchase for 2024-01-23.
+
+10 failed attempt for a purchase for 2024-01-23.
+
+
+Date: 2024-01-23
+Available (with buy signal): ['HAL', 'PANW', 'DAY', 'SMCI', 'ISRG', 'WDC', 'RF', 'NVDA', 'ORLY', 'SNPS', 'AMAT', 'CDNS', 'QCOM', 'STX', 'UAL', 'AMD', 'FAST', 'CRWD', 'TRV', 'JBHT', 'DECK', 'KEY', 'ADSK', 'AVGO', 'RTX', 'MCHP', 'LUV', 'LRCX', 'KLAC', 'ADI', 'MTB', 'PCAR']
+Purchase: {}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1, 'SMCI': 2, 'UAL': 1, 'CTLT': 1, 'CRWD': 1, 'PANW': 2, 'NVDA': 3}
+Updated Inventory Value: 2020.22
+Updated Balance: 11
+
+1 failed attempt for a purchase for 2024-01-24.
+
+2 failed attempt for a purchase for 2024-01-24.
+
+3 failed attempt for a purchase for 2024-01-24.
+
+4 failed attempt for a purchase for 2024-01-24.
+
+5 failed attempt for a purchase for 2024-01-24.
+
+6 failed attempt for a purchase for 2024-01-24.
+
+7 failed attempt for a purchase for 2024-01-24.
+
+8 failed attempt for a purchase for 2024-01-24.
+
+9 failed attempt for a purchase for 2024-01-24.
+
+10 failed attempt for a purchase for 2024-01-24.
+
+
+Date: 2024-01-24
+Available (with buy signal): ['HAL', 'SMCI', 'WDC', 'RF', 'NVDA', 'ORLY', 'SNPS', 'AMAT', 'CDNS', 'NFLX', 'QCOM', 'STX', 'UAL', 'AMD', 'FTNT', 'FAST', 'TRV', 'TXT', 'KEY', 'AVGO', 'RTX', 'TEL', 'LUV', 'LRCX', 'WFC', 'KLAC', 'MTB', 'PCAR']
+Purchase: {}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1, 'SMCI': 2, 'UAL': 1, 'CTLT': 1, 'CRWD': 1, 'PANW': 2, 'NVDA': 3}
+Updated Inventory Value: 2026.31
+Updated Balance: 11
+
+1 failed attempt for a purchase for 2024-01-25.
+
+2 failed attempt for a purchase for 2024-01-25.
+
+3 failed attempt for a purchase for 2024-01-25.
+
+4 failed attempt for a purchase for 2024-01-25.
+
+5 failed attempt for a purchase for 2024-01-25.
+
+6 failed attempt for a purchase for 2024-01-25.
+
+7 failed attempt for a purchase for 2024-01-25.
+
+8 failed attempt for a purchase for 2024-01-25.
+
+9 failed attempt for a purchase for 2024-01-25.
+
+10 failed attempt for a purchase for 2024-01-25.
+
+
+Date: 2024-01-25
+Available (with buy signal): ['HAL', 'XOM', 'SMCI', 'WDC', 'EOG', 'NVDA', 'DAL', 'CVX', 'AMAT', 'APTV', 'URI', 'IBM', 'HAS', 'NFLX', 'STX', 'UAL', 'AMD', 'CAT', 'FAST', 'WRB', 'TRV', 'TXT', 'KEY', 'RTX', 'PSX', 'TEL', 'GD', 'HES', 'LRCX', 'WFC', 'KLAC', 'SLB', 'PCAR']
+Purchase: {}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1, 'SMCI': 2, 'UAL': 1, 'CTLT': 1, 'CRWD': 1, 'PANW': 2, 'NVDA': 3}
+Updated Inventory Value: 2032.95
+Updated Balance: 11
+
+1 failed attempt for a purchase for 2024-01-26.
+
+2 failed attempt for a purchase for 2024-01-26.
+
+3 failed attempt for a purchase for 2024-01-26.
+
+4 failed attempt for a purchase for 2024-01-26.
+
+5 failed attempt for a purchase for 2024-01-26.
+
+6 failed attempt for a purchase for 2024-01-26.
+
+7 failed attempt for a purchase for 2024-01-26.
+
+8 failed attempt for a purchase for 2024-01-26.
+
+9 failed attempt for a purchase for 2024-01-26.
+
+10 failed attempt for a purchase for 2024-01-26.
+
+
+Date: 2024-01-26
+Available (with buy signal): ['HAL', 'XOM', 'COF', 'SMCI', 'AXP', 'EOG', 'NVDA', 'DAL', 'CVX', 'COP', 'APTV', 'URI', 'IBM', 'HAS', 'NFLX', 'UAL', 'SYF', 'AMD', 'CAT', 'WRB', 'VZ', 'TXT', 'RL', 'KEY', 'PSX', 'TEL', 'GD', 'HES', 'DFS', 'LRCX', 'WFC', 'SLB', 'RMD']
+Purchase: {}
+Updated Inventory: {'MRNA': 2, 'INCY': 2, 'ALL': 2, 'DAL': 1, 'SMCI': 2, 'UAL': 1, 'CTLT': 1, 'CRWD': 1, 'PANW': 2, 'NVDA': 3}
+Updated Inventory Value: 2029.17
+Updated Balance: 11
+
+No stocks with a buying signal for the date 2024-01-29.
+--------------------------------------------------------------------------------------
+
+==================================================
+|                   Iteration  2                   |
+==================================================
+
+Date: 2024-01-02
+Available (with buy signal): ['MRNA', 'ANSS', 'WYNN', 'INTC', 'INCY', 'DG', 'LVS', 'TSN', 'K']
+Purchase: {'TSN': 1}
+Updated Inventory: {'TSN': 1}
+Updated Inventory Value: 55.53
+Updated Balance: 1943
+
+
+Date: 2024-01-03
+Available (with buy signal): ['C', 'MRNA', 'INCY', 'FE']
+Purchase: {'C': 1}
+Updated Inventory: {'TSN': 1, 'C': 1}
+Updated Inventory Value: 108.25
+Updated Balance: 1889
+
+
+Date: 2024-01-04
+Available (with buy signal): ['C', 'MRNA', 'MRK', 'INCY']
+Purchase: {'MRNA': 1}
+Updated Inventory: {'TSN': 1, 'C': 1, 'MRNA': 1}
+Updated Inventory Value: 216.59
+Updated Balance: 1779
+
+
+Date: 2024-01-05
+Available (with buy signal): ['C', 'VTRS', 'MRNA', 'MRK', 'ALL']
+Purchase: {'C': 1}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1}
+Updated Inventory Value: 274.7
+Updated Balance: 1724
+
+
+Date: 2024-01-08
+Available (with buy signal): ['VTRS', 'MRNA', 'DAL', 'MRK', 'UAL', 'ALL']
+Purchase: {'VTRS': 2}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2}
+Updated Inventory Value: 301.78
+Updated Balance: 1699
+
+
+Date: 2024-01-09
+Available (with buy signal): ['MRNA', 'SMCI', 'CTLT', 'DAL', 'MRK', 'UAL', 'MTCH', 'JNPR']
+Purchase: {'UAL': 2}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2, 'UAL': 2}
+Updated Inventory Value: 382.75
+Updated Balance: 1611
+
+
+Date: 2024-01-10
+Available (with buy signal): ['SMCI', 'CTLT', 'DAL', 'UBER', 'FICO', 'UAL', 'MTCH', 'CRWD', 'JNPR']
+Purchase: {'MTCH': 2}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2, 'UAL': 2, 'MTCH': 2}
+Updated Inventory Value: 460.28
+Updated Balance: 1533
+
+
+Date: 2024-01-11
+Available (with buy signal): ['PANW', 'SMCI', 'CTLT', 'NVDA', 'DAL', 'UBER', 'FICO', 'UAL', 'CRWD', 'JNPR']
+Purchase: {'UBER': 2}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2, 'UAL': 2, 'MTCH': 2, 'UBER': 2}
+Updated Inventory Value: 580.61
+Updated Balance: 1405
+
+
+Date: 2024-01-12
+Available (with buy signal): ['PANW', 'SMCI', 'CTLT', 'NVDA', 'UBER', 'FICO', 'CRWD', 'JNPR', 'CTSH']
+Purchase: {'JNPR': 1}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2, 'UAL': 2, 'MTCH': 2, 'UBER': 2, 'JNPR': 1}
+Updated Inventory Value: 606.65
+Updated Balance: 1366
+
+
+Date: 2024-01-16
+Available (with buy signal): ['PANW', 'SMCI', 'ISRG', 'WDC', 'CTLT', 'NVDA', 'IBM', 'UBER', 'FICO', 'CRWD']
+Purchase: {'PANW': 2}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2, 'UAL': 2, 'MTCH': 2, 'UBER': 2, 'JNPR': 1, 'PANW': 2}
+Updated Inventory Value: 1263.98
+Updated Balance: 701
+
+
+Date: 2024-01-17
+Available (with buy signal): ['PANW', 'SMCI', 'ISRG', 'WDC', 'NVDA', 'AMD', 'CRWD']
+Purchase: {'ISRG': 1}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2, 'UAL': 2, 'MTCH': 2, 'UBER': 2, 'JNPR': 1, 'PANW': 2, 'ISRG': 1}
+Updated Inventory Value: 1610.18
+Updated Balance: 341
+
+
+Date: 2024-01-18
+Available (with buy signal): ['PANW', 'ISRG', 'WDC', 'ANET', 'NVDA', 'AMAT', 'QCOM', 'UBER', 'AMD', 'CRWD', 'KLAC']
+Purchase: {'NVDA': 1}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2, 'UAL': 2, 'MTCH': 2, 'UBER': 2, 'JNPR': 1, 'PANW': 2, 'ISRG': 1, 'NVDA': 1}
+Updated Inventory Value: 1697.34
+Updated Balance: 283
+
+1 failed attempt for a purchase for 2024-01-19.
+
+
+Date: 2024-01-19
+Available (with buy signal): ['PANW', 'SMCI', 'ISRG', 'WDC', 'ANET', 'NVDA', 'ORLY', 'NOW', 'AMAT', 'CDNS', 'IBM', 'QCOM', 'AMD', 'CRWD', 'MU', 'DECK', 'AVGO', 'MCHP', 'LRCX', 'KLAC', 'MTB']
+Purchase: {'AVGO': 2}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2, 'UAL': 2, 'MTCH': 2, 'UBER': 2, 'JNPR': 1, 'PANW': 2, 'ISRG': 1, 'NVDA': 1, 'AVGO': 2}
+Updated Inventory Value: 1948.06
+Updated Balance: 40
+
+1 failed attempt for a purchase for 2024-01-22.
+
+2 failed attempt for a purchase for 2024-01-22.
+
+3 failed attempt for a purchase for 2024-01-22.
+
+4 failed attempt for a purchase for 2024-01-22.
+
+5 failed attempt for a purchase for 2024-01-22.
+
+6 failed attempt for a purchase for 2024-01-22.
+
+7 failed attempt for a purchase for 2024-01-22.
+
+8 failed attempt for a purchase for 2024-01-22.
+
+9 failed attempt for a purchase for 2024-01-22.
+
+10 failed attempt for a purchase for 2024-01-22.
+
+
+Date: 2024-01-22
+Available (with buy signal): ['PANW', 'SMCI', 'ISRG', 'WDC', 'ANET', 'RF', 'NVDA', 'ORLY', 'SNPS', 'AMAT', 'CDNS', 'URI', 'IBM', 'QCOM', 'FICO', 'AMD', 'FAST', 'CRWD', 'MU', 'BLDR', 'TRV', 'JBHT', 'DECK', 'AVGO', 'MCHP', 'ODFL', 'LRCX', 'KLAC', 'MTB']
+Purchase: {}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2, 'UAL': 2, 'MTCH': 2, 'UBER': 2, 'JNPR': 1, 'PANW': 2, 'ISRG': 1, 'NVDA': 1, 'AVGO': 2}
+Updated Inventory Value: 1967.98
+Updated Balance: 40
+
+1 failed attempt for a purchase for 2024-01-23.
+
+2 failed attempt for a purchase for 2024-01-23.
+
+3 failed attempt for a purchase for 2024-01-23.
+
+4 failed attempt for a purchase for 2024-01-23.
+
+5 failed attempt for a purchase for 2024-01-23.
+
+6 failed attempt for a purchase for 2024-01-23.
+
+7 failed attempt for a purchase for 2024-01-23.
+
+8 failed attempt for a purchase for 2024-01-23.
+
+9 failed attempt for a purchase for 2024-01-23.
+
+10 failed attempt for a purchase for 2024-01-23.
+
+
+Date: 2024-01-23
+Available (with buy signal): ['HAL', 'PANW', 'DAY', 'SMCI', 'ISRG', 'WDC', 'RF', 'NVDA', 'ORLY', 'SNPS', 'AMAT', 'CDNS', 'QCOM', 'STX', 'UAL', 'AMD', 'FAST', 'CRWD', 'TRV', 'JBHT', 'DECK', 'KEY', 'ADSK', 'AVGO', 'RTX', 'MCHP', 'LUV', 'LRCX', 'KLAC', 'ADI', 'MTB', 'PCAR']
+Purchase: {}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2, 'UAL': 2, 'MTCH': 2, 'UBER': 2, 'JNPR': 1, 'PANW': 2, 'ISRG': 1, 'NVDA': 1, 'AVGO': 2}
+Updated Inventory Value: 1970.33
+Updated Balance: 40
+
+1 failed attempt for a purchase for 2024-01-24.
+
+2 failed attempt for a purchase for 2024-01-24.
+
+3 failed attempt for a purchase for 2024-01-24.
+
+4 failed attempt for a purchase for 2024-01-24.
+
+5 failed attempt for a purchase for 2024-01-24.
+
+6 failed attempt for a purchase for 2024-01-24.
+
+7 failed attempt for a purchase for 2024-01-24.
+
+8 failed attempt for a purchase for 2024-01-24.
+
+9 failed attempt for a purchase for 2024-01-24.
+
+10 failed attempt for a purchase for 2024-01-24.
+
+
+Date: 2024-01-24
+Available (with buy signal): ['HAL', 'SMCI', 'WDC', 'RF', 'NVDA', 'ORLY', 'SNPS', 'AMAT', 'CDNS', 'NFLX', 'QCOM', 'STX', 'UAL', 'AMD', 'FTNT', 'FAST', 'TRV', 'TXT', 'KEY', 'AVGO', 'RTX', 'TEL', 'LUV', 'LRCX', 'WFC', 'KLAC', 'MTB', 'PCAR']
+Purchase: {}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2, 'UAL': 2, 'MTCH': 2, 'UBER': 2, 'JNPR': 1, 'PANW': 2, 'ISRG': 1, 'NVDA': 1, 'AVGO': 2}
+Updated Inventory Value: 1967.21
+Updated Balance: 40
+
+1 failed attempt for a purchase for 2024-01-25.
+
+2 failed attempt for a purchase for 2024-01-25.
+
+3 failed attempt for a purchase for 2024-01-25.
+
+4 failed attempt for a purchase for 2024-01-25.
+
+5 failed attempt for a purchase for 2024-01-25.
+
+6 failed attempt for a purchase for 2024-01-25.
+
+7 failed attempt for a purchase for 2024-01-25.
+
+
+Date: 2024-01-25
+Available (with buy signal): ['HAL', 'XOM', 'SMCI', 'WDC', 'EOG', 'NVDA', 'DAL', 'CVX', 'AMAT', 'APTV', 'URI', 'IBM', 'HAS', 'NFLX', 'STX', 'UAL', 'AMD', 'CAT', 'FAST', 'WRB', 'TRV', 'TXT', 'KEY', 'RTX', 'PSX', 'TEL', 'GD', 'HES', 'LRCX', 'WFC', 'KLAC', 'SLB', 'PCAR']
+Purchase: {'KEY': 2}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2, 'UAL': 2, 'MTCH': 2, 'UBER': 2, 'JNPR': 1, 'PANW': 2, 'ISRG': 1, 'NVDA': 1, 'AVGO': 2, 'KEY': 2}
+Updated Inventory Value: 2011.09
+Updated Balance: 10
+
+1 failed attempt for a purchase for 2024-01-26.
+
+2 failed attempt for a purchase for 2024-01-26.
+
+3 failed attempt for a purchase for 2024-01-26.
+
+4 failed attempt for a purchase for 2024-01-26.
+
+5 failed attempt for a purchase for 2024-01-26.
+
+6 failed attempt for a purchase for 2024-01-26.
+
+7 failed attempt for a purchase for 2024-01-26.
+
+8 failed attempt for a purchase for 2024-01-26.
+
+9 failed attempt for a purchase for 2024-01-26.
+
+10 failed attempt for a purchase for 2024-01-26.
+
+
+Date: 2024-01-26
+Available (with buy signal): ['HAL', 'XOM', 'COF', 'SMCI', 'AXP', 'EOG', 'NVDA', 'DAL', 'CVX', 'COP', 'APTV', 'URI', 'IBM', 'HAS', 'NFLX', 'UAL', 'SYF', 'AMD', 'CAT', 'WRB', 'VZ', 'TXT', 'RL', 'KEY', 'PSX', 'TEL', 'GD', 'HES', 'DFS', 'LRCX', 'WFC', 'SLB', 'RMD']
+Purchase: {}
+Updated Inventory: {'TSN': 1, 'C': 2, 'MRNA': 1, 'VTRS': 2, 'UAL': 2, 'MTCH': 2, 'UBER': 2, 'JNPR': 1, 'PANW': 2, 'ISRG': 1, 'NVDA': 1, 'AVGO': 2, 'KEY': 2}
+Updated Inventory Value: 2008.25
+Updated Balance: 10
+
+No stocks with a buying signal for the date 2024-01-29.
+--------------------------------------------------------------------------------------
+
+==================================================
+|                   Iteration  1                   |
+==================================================
+
+Date: 2024-01-02
+Available (with buy signal): ['C', 'BIIB', 'MOH', 'SJM', 'VTRS', 'MRNA', 'ANSS', 'CI', 'MNST', 'AMGN', 'CTLT', 'WYNN', 'PNW', 'EVRG', 'MO', 'INTC', 'DLTR', 'JCI', 'D', 'DD', 'RVTY', 'PM', 'MRK', 'AIG', 'INCY', 'CNC', 'PPL', 'DGX', 'PFE', 'HSY', 'AEP', 'ED', 'GILD', 'DG', 'MTCH', 'PSA', 'CVS', 'ENPH', 'MCK', 'CPB', 'DELL', 'FMC', 'LVS', 'CNP', 'GIS', 'T', 'TSN', 'FE', 'ETR', 'EXC', 'EXR', 'K']
+Purchase: {'PPL': 3, 'PNW': 1, 'CPB': 1}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1}
+Updated Inventory Value: 200.48
+Updated Balance: 9797
+
+
+Date: 2024-01-03
+Available (with buy signal): ['C', 'MOH', 'SJM', 'VTRS', 'MRNA', 'AMGN', 'EOG', 'WYNN', 'PNW', 'EVRG', 'INTC', 'D', 'PM', 'MRK', 'INCY', 'ES', 'CNC', 'PPL', 'WMB', 'PFE', 'HSY', 'AEP', 'ED', 'GILD', 'JNJ', 'JNPR', 'MCK', 'LLY', 'CPB', 'CF', 'ALL', 'DUK', 'LVS', 'CNP', 'GIS', 'REGN', 'T', 'TSN', 'HES', 'SO', 'FE', 'ETR', 'K']
+Purchase: {'MRNA': 1, 'MRK': 1, 'LVS': 1}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 1, 'LVS': 1}
+Updated Inventory Value: 475.55
+Updated Balance: 9520
+
+
+Date: 2024-01-04
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'AMGN', 'WYNN', 'PNW', 'EVRG', 'PM', 'MRK', 'INCY', 'CNC', 'CAH', 'HSY', 'AEP', 'ABBV', 'ED', 'GILD', 'VZ', 'MCK', 'LLY', 'ALL', 'CNP', 'REGN', 'T', 'SO', 'FE']
+Purchase: {'AMGN': 3, 'INCY': 1, 'T': 1}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 1, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1}
+Updated Inventory Value: 1469.82
+Updated Balance: 8523
+
+
+Date: 2024-01-05
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'KHC', 'CI', 'AMGN', 'WYNN', 'PNW', 'COR', 'CINF', 'D', 'MRK', 'TMUS', 'INCY', 'CNC', 'UAL', 'DGX', 'CAH', 'MET', 'AEP', 'ABBV', 'ED', 'WRB', 'FITB', 'VZ', 'MCK', 'LLY', 'ALL', 'REGN', 'T', 'TSN', 'WEC', 'FE', 'BSX', 'ETR']
+Purchase: {'COR': 1, 'ABBV': 2, 'TMUS': 2}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 1, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2}
+Updated Inventory Value: 2334.45
+Updated Balance: 7658
+
+
+Date: 2024-01-08
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'COF', 'KHC', 'CI', 'AMGN', 'WYNN', 'DAL', 'FIS', 'CINF', 'D', 'TFC', 'MRK', 'BAX', 'UAL', 'MET', 'AEP', 'EG', 'ABBV', 'DVA', 'WRB', 'MTCH', 'FITB', 'VZ', 'GPN', 'JNPR', 'IP', 'MCK', 'LLY', 'NEE', 'DXCM', 'ALL', 'LVS', 'REGN', 'MDT', 'FE', 'ETR']
+Purchase: {'CI': 1, 'REGN': 1, 'VZ': 3}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 1, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3}
+Updated Inventory Value: 3699.64
+Updated Balance: 6318
+
+
+Date: 2024-01-09
+Available (with buy signal): ['MOH', 'VTRS', 'MRNA', 'SMCI', 'AMGN', 'CTLT', 'NVDA', 'DAL', 'MRK', 'BAX', 'CNC', 'UAL', 'MET', 'EG', 'PGR', 'GILD', 'MTCH', 'CRWD', 'JNPR', 'IP', 'MCK', 'LLY', 'DXCM', 'ALL', 'REGN', 'STZ', 'MDT', 'FE', 'BSX', 'RMD']
+Purchase: {'RMD': 1, 'PGR': 3, 'DAL': 1}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 1, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3, 'RMD': 1, 'PGR': 3, 'DAL': 1}
+Updated Inventory Value: 4401.38
+Updated Balance: 5595
+
+
+Date: 2024-01-10
+Available (with buy signal): ['PANW', 'VTRS', 'MRNA', 'SMCI', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'DAL', 'TAP', 'MRK', 'DHI', 'HAS', 'BAX', 'UBER', 'FICO', 'UAL', 'MET', 'EG', 'ABBV', 'PGR', 'DVA', 'MTCH', 'CRWD', 'GPN', 'JNPR', 'IP', 'MCK', 'AON', 'ADSK', 'LLY', 'MHK', 'DXCM', 'ALL', 'LUV', 'STZ', 'MDT', 'FE', 'BSX', 'RMD']
+Purchase: {'UBER': 1, 'BAX': 1, 'MTCH': 1}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 1, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3, 'RMD': 1, 'PGR': 3, 'DAL': 1, 'UBER': 1, 'BAX': 1, 'MTCH': 1}
+Updated Inventory Value: 4533.43
+Updated Balance: 5450
+
+
+Date: 2024-01-11
+Available (with buy signal): ['PANW', 'VTRS', 'SMCI', 'ISRG', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'COR', 'DAL', 'TAP', 'MRK', 'DHI', 'UBER', 'FICO', 'CNC', 'UAL', 'FTNT', 'EG', 'ABBV', 'PGR', 'DVA', 'LEN', 'CRWD', 'JNPR', 'GEN', 'IP', 'MCK', 'ADSK', 'LLY', 'AVGO', 'DXCM', 'ALL', 'VRTX', 'LUV', 'STZ', 'CTSH', 'MDT', 'BSX', 'RMD']
+Purchase: {'NVDA': 1, 'MRK': 2, 'ALL': 1}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 3, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3, 'RMD': 1, 'PGR': 3, 'DAL': 1, 'UBER': 1, 'BAX': 1, 'MTCH': 1, 'NVDA': 1, 'ALL': 1}
+Updated Inventory Value: 4974.46
+Updated Balance: 5005
+
+
+Date: 2024-01-12
+Available (with buy signal): ['PANW', 'SYK', 'VTRS', 'SMCI', 'ISRG', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'COR', 'DOC', 'MRK', 'URI', 'IBM', 'UBER', 'FICO', 'FTNT', 'PGR', 'GILD', 'CRWD', 'AJG', 'JNPR', 'GEN', 'ADSK', 'LLY', 'AVGO', 'META', 'AMZN', 'ALL', 'VRTX', 'DLR', 'STZ', 'CTSH', 'MDT', 'BSX', 'CRM']
+Purchase: {'NVDA': 2, 'VRTX': 1, 'IBM': 1}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 3, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3, 'RMD': 1, 'PGR': 3, 'DAL': 1, 'UBER': 1, 'BAX': 1, 'MTCH': 1, 'NVDA': 3, 'ALL': 1, 'VRTX': 1, 'IBM': 1}
+Updated Inventory Value: 5702.82
+Updated Balance: 4294
+
+
+Date: 2024-01-16
+Available (with buy signal): ['PANW', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'COR', 'DOC', 'AMAT', 'BK', 'MRK', 'URI', 'IBM', 'QCOM', 'UBER', 'FICO', 'STX', 'AMD', 'FTNT', 'PGR', 'BRO', 'CRWD', 'MU', 'DECK', 'ADSK', 'LLY', 'AVGO', 'DIS', 'META', 'ALL', 'VRTX', 'DLR', 'STZ', 'DPZ', 'MSFT', 'KLAC', 'CTSH', 'CRM']
+Purchase: {'MSFT': 1, 'FICO': 2, 'WDC': 1}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 3, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3, 'RMD': 1, 'PGR': 3, 'DAL': 1, 'UBER': 1, 'BAX': 1, 'MTCH': 1, 'NVDA': 3, 'ALL': 1, 'VRTX': 1, 'IBM': 1, 'MSFT': 1, 'FICO': 2, 'WDC': 1}
+Updated Inventory Value: 8588.1
+Updated Balance: 1399
+
+
+Date: 2024-01-17
+Available (with buy signal): ['PANW', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'NOW', 'BK', 'CDNS', 'IBM', 'GDDY', 'UBER', 'FICO', 'AMD', 'FTNT', 'BRO', 'CRWD', 'DECK', 'META', 'VRTX', 'DPZ', 'MSFT', 'BSX', 'CRM']
+Purchase: {'FTNT': 1, 'CDNS': 1, 'BK': 1}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 3, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3, 'RMD': 1, 'PGR': 3, 'DAL': 1, 'UBER': 1, 'BAX': 1, 'MTCH': 1, 'NVDA': 3, 'ALL': 1, 'VRTX': 1, 'IBM': 1, 'MSFT': 1, 'FICO': 2, 'WDC': 1, 'FTNT': 1, 'CDNS': 1, 'BK': 1}
+Updated Inventory Value: 8980.32
+Updated Balance: 1006
+
+
+Date: 2024-01-18
+Available (with buy signal): ['PANW', 'CBOE', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'NOW', 'AMAT', 'BK', 'CDNS', 'COST', 'TDG', 'GDDY', 'AZO', 'QCOM', 'UBER', 'FICO', 'AMD', 'FAST', 'BRO', 'CRWD', 'ORCL', 'DECK', 'GWW', 'AON', 'AVGO', 'META', 'IT', 'LUV', 'TSCO', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'BSX', 'CRM', 'ACN']
+Purchase: {'CRWD': 1, 'WDC': 2, 'QCOM': 2}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 3, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3, 'RMD': 1, 'PGR': 3, 'DAL': 1, 'UBER': 1, 'BAX': 1, 'MTCH': 1, 'NVDA': 3, 'ALL': 1, 'VRTX': 1, 'IBM': 1, 'MSFT': 1, 'FICO': 2, 'WDC': 3, 'FTNT': 1, 'CDNS': 1, 'BK': 1, 'CRWD': 1, 'QCOM': 2}
+Updated Inventory Value: 9727.97
+Updated Balance: 322
+
+1 failed attempt for a purchase for 2024-01-19.
+
+
+Date: 2024-01-19
+Available (with buy signal): ['PANW', 'CBOE', 'TXN', 'HD', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'AMAT', 'BK', 'CDNS', 'COST', 'URI', 'IBM', 'TDG', 'GDDY', 'AZO', 'CDW', 'QCOM', 'UBER', 'FICO', 'STX', 'TER', 'AMD', 'INTU', 'FAST', 'AXON', 'BRO', 'CRWD', 'ORCL', 'MU', 'BLDR', 'TRV', 'JBHT', 'AJG', 'DECK', 'GEN', 'GWW', 'AON', 'ADSK', 'AVGO', 'DIS', 'META', 'MCHP', 'DELL', 'TYL', 'IT', 'MPWR', 'ADBE', 'LUV', 'TSCO', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'GOOGL', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'RCL']
+Purchase: {'CTLT': 3, 'LRCX': 1, 'DELL': 1}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 3, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3, 'RMD': 1, 'PGR': 3, 'DAL': 1, 'UBER': 1, 'BAX': 1, 'MTCH': 1, 'NVDA': 3, 'ALL': 1, 'VRTX': 1, 'IBM': 1, 'MSFT': 1, 'FICO': 2, 'WDC': 3, 'FTNT': 1, 'CDNS': 1, 'BK': 1, 'CRWD': 1, 'QCOM': 2, 'CTLT': 3, 'LRCX': 1, 'DELL': 1}
+Updated Inventory Value: 10128.46
+Updated Balance: 5
+
+1 failed attempt for a purchase for 2024-01-22.
+
+2 failed attempt for a purchase for 2024-01-22.
+
+3 failed attempt for a purchase for 2024-01-22.
+
+4 failed attempt for a purchase for 2024-01-22.
+
+5 failed attempt for a purchase for 2024-01-22.
+
+6 failed attempt for a purchase for 2024-01-22.
+
+7 failed attempt for a purchase for 2024-01-22.
+
+8 failed attempt for a purchase for 2024-01-22.
+
+9 failed attempt for a purchase for 2024-01-22.
+
+10 failed attempt for a purchase for 2024-01-22.
+
+
+Date: 2024-01-22
+Available (with buy signal): ['C', 'HAL', 'PANW', 'CBOE', 'TXN', 'DAY', 'COF', 'SMCI', 'ISRG', 'WDC', 'ANET', 'RF', 'ACGL', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'WAT', 'AMAT', 'NTAP', 'EMR', 'DHI', 'CDNS', 'CPRT', 'URI', 'IBM', 'TDG', 'GDDY', 'AZO', 'AIG', 'ALLE', 'QCOM', 'FICO', 'STX', 'TER', 'AMD', 'INTU', 'FAST', 'AKAM', 'AXON', 'MTD', 'SWKS', 'PH', 'BRO', 'PYPL', 'CRWD', 'ORCL', 'MU', 'BLDR', 'TRV', 'JBHT', 'FFIV', 'RL', 'FTV', 'DECK', 'GEN', 'GWW', 'KEY', 'ADSK', 'AVGO', 'NVR', 'DIS', 'CRL', 'META', 'MCHP', 'DELL', 'TYL', 'IT', 'QRVO', 'DLR', 'MPWR', 'ODFL', 'LUV', 'TSCO', 'NXPI', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'GOOGL', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PLTR', 'PCAR']
+Purchase: {}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 3, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3, 'RMD': 1, 'PGR': 3, 'DAL': 1, 'UBER': 1, 'BAX': 1, 'MTCH': 1, 'NVDA': 3, 'ALL': 1, 'VRTX': 1, 'IBM': 1, 'MSFT': 1, 'FICO': 2, 'WDC': 3, 'FTNT': 1, 'CDNS': 1, 'BK': 1, 'CRWD': 1, 'QCOM': 2, 'CTLT': 3, 'LRCX': 1, 'DELL': 1}
+Updated Inventory Value: 10236.13
+Updated Balance: 5
+
+1 failed attempt for a purchase for 2024-01-23.
+
+2 failed attempt for a purchase for 2024-01-23.
+
+3 failed attempt for a purchase for 2024-01-23.
+
+4 failed attempt for a purchase for 2024-01-23.
+
+5 failed attempt for a purchase for 2024-01-23.
+
+6 failed attempt for a purchase for 2024-01-23.
+
+7 failed attempt for a purchase for 2024-01-23.
+
+8 failed attempt for a purchase for 2024-01-23.
+
+9 failed attempt for a purchase for 2024-01-23.
+
+10 failed attempt for a purchase for 2024-01-23.
+
+
+Date: 2024-01-23
+Available (with buy signal): ['C', 'HAL', 'PANW', 'F', 'CBOE', 'TXN', 'DAY', 'COF', 'SMCI', 'AXP', 'ISRG', 'WDC', 'ANET', 'RF', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'WAT', 'AMAT', 'NSC', 'NTAP', 'CDNS', 'CPRT', 'URI', 'IBM', 'TDG', 'AZO', 'AIG', 'MSI', 'ALLE', 'CB', 'QCOM', 'FICO', 'STX', 'TER', 'UAL', 'AMD', 'INTU', 'FAST', 'AKAM', 'MTD', 'SWKS', 'BRO', 'WRB', 'ALB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'FTV', 'DECK', 'GWW', 'KEY', 'ADSK', 'AVGO', 'RTX', 'DIS', 'META', 'MCHP', 'TYL', 'IT', 'QRVO', 'GIS', 'MPWR', 'ITW', 'LUV', 'NXPI', 'T', 'LRCX', 'WFC', 'MSFT', 'KLAC', 'SLB', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PLTR', 'PCAR']
+Purchase: {}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 3, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3, 'RMD': 1, 'PGR': 3, 'DAL': 1, 'UBER': 1, 'BAX': 1, 'MTCH': 1, 'NVDA': 3, 'ALL': 1, 'VRTX': 1, 'IBM': 1, 'MSFT': 1, 'FICO': 2, 'WDC': 3, 'FTNT': 1, 'CDNS': 1, 'BK': 1, 'CRWD': 1, 'QCOM': 2, 'CTLT': 3, 'LRCX': 1, 'DELL': 1}
+Updated Inventory Value: 10254.09
+Updated Balance: 5
+
+1 failed attempt for a purchase for 2024-01-24.
+
+2 failed attempt for a purchase for 2024-01-24.
+
+3 failed attempt for a purchase for 2024-01-24.
+
+4 failed attempt for a purchase for 2024-01-24.
+
+5 failed attempt for a purchase for 2024-01-24.
+
+6 failed attempt for a purchase for 2024-01-24.
+
+7 failed attempt for a purchase for 2024-01-24.
+
+8 failed attempt for a purchase for 2024-01-24.
+
+9 failed attempt for a purchase for 2024-01-24.
+
+10 failed attempt for a purchase for 2024-01-24.
+
+
+Date: 2024-01-24
+Available (with buy signal): ['C', 'HAL', 'PANW', 'CBOE', 'XOM', 'DAY', 'COF', 'SMCI', 'AXP', 'ISRG', 'WDC', 'ANET', 'RF', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'SNPS', 'NOW', 'CINF', 'AMAT', 'TFC', 'HBAN', 'APTV', 'CDNS', 'PTC', 'IBM', 'TDG', 'AZO', 'AIG', 'NFLX', 'MSI', 'CB', 'QCOM', 'STX', 'TER', 'UAL', 'AMD', 'CAT', 'INTU', 'FTNT', 'FAST', 'AKAM', 'SWKS', 'BRO', 'WRB', 'ALB', 'PYPL', 'FITB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'TXT', 'FTV', 'DECK', 'GWW', 'KEY', 'ADSK', 'AVGO', 'RTX', 'META', 'MCHP', 'DELL', 'TYL', 'PSX', 'TEL', 'GD', 'MPWR', 'LUV', 'NXPI', 'MAR', 'HES', 'LRCX', 'WFC', 'MSFT', 'KLAC', 'SLB', 'ADI', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 3, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3, 'RMD': 1, 'PGR': 3, 'DAL': 1, 'UBER': 1, 'BAX': 1, 'MTCH': 1, 'NVDA': 3, 'ALL': 1, 'VRTX': 1, 'IBM': 1, 'MSFT': 1, 'FICO': 2, 'WDC': 3, 'FTNT': 1, 'CDNS': 1, 'BK': 1, 'CRWD': 1, 'QCOM': 2, 'CTLT': 3, 'LRCX': 1, 'DELL': 1}
+Updated Inventory Value: 10233.28
+Updated Balance: 5
+
+1 failed attempt for a purchase for 2024-01-25.
+
+2 failed attempt for a purchase for 2024-01-25.
+
+3 failed attempt for a purchase for 2024-01-25.
+
+4 failed attempt for a purchase for 2024-01-25.
+
+5 failed attempt for a purchase for 2024-01-25.
+
+6 failed attempt for a purchase for 2024-01-25.
+
+7 failed attempt for a purchase for 2024-01-25.
+
+8 failed attempt for a purchase for 2024-01-25.
+
+9 failed attempt for a purchase for 2024-01-25.
+
+10 failed attempt for a purchase for 2024-01-25.
+
+
+Date: 2024-01-25
+Available (with buy signal): ['C', 'HAL', 'PANW', 'F', 'CBOE', 'NRG', 'XOM', 'DAY', 'COF', 'SMCI', 'AXP', 'WDC', 'ANET', 'RF', 'EOG', 'WYNN', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'SNPS', 'NOW', 'CVX', 'COP', 'AMAT', 'TFC', 'NTAP', 'HBAN', 'APTV', 'CDNS', 'PTC', 'URI', 'IBM', 'TDG', 'AZO', 'CEG', 'HAS', 'NFLX', 'ALLE', 'CB', 'EBAY', 'QCOM', 'UBER', 'STX', 'TER', 'UAL', 'APA', 'SYF', 'AMD', 'CMCSA', 'CAT', 'INTU', 'DVN', 'FTNT', 'FAST', 'APH', 'AKAM', 'PGR', 'BRO', 'WRB', 'MTCH', 'FITB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'TXT', 'RL', 'FTV', 'DECK', 'GEN', 'GWW', 'KEY', 'AVGO', 'RTX', 'FRT', 'META', 'DELL', 'CF', 'PSX', 'ALL', 'TEL', 'GD', 'LVS', 'IPG', 'DLR', 'TTWO', 'VLO', 'ITW', 'MKC', 'NXPI', 'MAR', 'T', 'HES', 'DFS', 'LRCX', 'WFC', 'KLAC', 'MS', 'CTSH', 'GOOGL', 'PARA', 'SLB', 'AAPL', 'ACN', 'GOOG', 'MTB', 'RMD', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 3, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3, 'RMD': 1, 'PGR': 3, 'DAL': 1, 'UBER': 1, 'BAX': 1, 'MTCH': 1, 'NVDA': 3, 'ALL': 1, 'VRTX': 1, 'IBM': 1, 'MSFT': 1, 'FICO': 2, 'WDC': 3, 'FTNT': 1, 'CDNS': 1, 'BK': 1, 'CRWD': 1, 'QCOM': 2, 'CTLT': 3, 'LRCX': 1, 'DELL': 1}
+Updated Inventory Value: 10320.1
+Updated Balance: 5
+
+1 failed attempt for a purchase for 2024-01-26.
+
+2 failed attempt for a purchase for 2024-01-26.
+
+3 failed attempt for a purchase for 2024-01-26.
+
+4 failed attempt for a purchase for 2024-01-26.
+
+5 failed attempt for a purchase for 2024-01-26.
+
+6 failed attempt for a purchase for 2024-01-26.
+
+7 failed attempt for a purchase for 2024-01-26.
+
+8 failed attempt for a purchase for 2024-01-26.
+
+9 failed attempt for a purchase for 2024-01-26.
+
+10 failed attempt for a purchase for 2024-01-26.
+
+
+Date: 2024-01-26
+Available (with buy signal): ['C', 'HAL', 'F', 'NRG', 'XOM', 'COF', 'SMCI', 'AXP', 'WDC', 'RF', 'BRK-B', 'CTLT', 'EOG', 'WYNN', 'PNW', 'HLT', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'NOW', 'CVX', 'COP', 'TFC', 'HBAN', 'APTV', 'CDNS', 'URI', 'IBM', 'TDG', 'AZO', 'CEG', 'HAS', 'NFLX', 'ABNB', 'CB', 'EBAY', 'IFF', 'STX', 'UAL', 'APA', 'SYF', 'AMD', 'CMCSA', 'CAT', 'WMB', 'INTU', 'DVN', 'FTNT', 'FAST', 'TRGP', 'PGR', 'BRO', 'WRB', 'MTCH', 'FITB', 'ORCL', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'MPC', 'CSGP', 'TXT', 'RL', 'DECK', 'IP', 'KEY', 'RTX', 'FRT', 'CRL', 'META', 'DELL', 'CF', 'PSX', 'ALL', 'TEL', 'GD', 'LVS', 'IPG', 'DLR', 'VLO', 'MKC', 'MAR', 'CTRA', 'T', 'HES', 'DFS', 'LRCX', 'WFC', 'MS', 'GOOGL', 'PARA', 'SLB', 'ACN', 'GOOG', 'RMD', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'PPL': 3, 'PNW': 1, 'CPB': 1, 'MRNA': 1, 'MRK': 3, 'LVS': 1, 'AMGN': 3, 'INCY': 1, 'T': 1, 'COR': 1, 'ABBV': 2, 'TMUS': 2, 'CI': 1, 'REGN': 1, 'VZ': 3, 'RMD': 1, 'PGR': 3, 'DAL': 1, 'UBER': 1, 'BAX': 1, 'MTCH': 1, 'NVDA': 3, 'ALL': 1, 'VRTX': 1, 'IBM': 1, 'MSFT': 1, 'FICO': 2, 'WDC': 3, 'FTNT': 1, 'CDNS': 1, 'BK': 1, 'CRWD': 1, 'QCOM': 2, 'CTLT': 3, 'LRCX': 1, 'DELL': 1}
+Updated Inventory Value: 10126.39
+Updated Balance: 5
+
+No stocks with a buying signal for the date 2024-01-29.
+--------------------------------------------------------------------------------------
+
+==================================================
+|                   Iteration  2                   |
+==================================================
+
+Date: 2024-01-02
+Available (with buy signal): ['C', 'BIIB', 'MOH', 'SJM', 'VTRS', 'MRNA', 'ANSS', 'CI', 'MNST', 'AMGN', 'CTLT', 'WYNN', 'PNW', 'EVRG', 'MO', 'INTC', 'DLTR', 'JCI', 'D', 'DD', 'RVTY', 'PM', 'MRK', 'AIG', 'INCY', 'CNC', 'PPL', 'DGX', 'PFE', 'HSY', 'AEP', 'ED', 'GILD', 'DG', 'MTCH', 'PSA', 'CVS', 'ENPH', 'MCK', 'CPB', 'DELL', 'FMC', 'LVS', 'CNP', 'GIS', 'T', 'TSN', 'FE', 'ETR', 'EXC', 'EXR', 'K']
+Purchase: {'EXR': 1, 'C': 2, 'DD': 1}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1}
+Updated Inventory Value: 347.99
+Updated Balance: 9649
+
+
+Date: 2024-01-03
+Available (with buy signal): ['C', 'MOH', 'SJM', 'VTRS', 'MRNA', 'AMGN', 'EOG', 'WYNN', 'PNW', 'EVRG', 'INTC', 'D', 'PM', 'MRK', 'INCY', 'ES', 'CNC', 'PPL', 'WMB', 'PFE', 'HSY', 'AEP', 'ED', 'GILD', 'JNJ', 'JNPR', 'MCK', 'LLY', 'CPB', 'CF', 'ALL', 'DUK', 'LVS', 'CNP', 'GIS', 'REGN', 'T', 'TSN', 'HES', 'SO', 'FE', 'ETR', 'K']
+Purchase: {'VTRS': 1, 'SJM': 2, 'GIS': 1}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1}
+Updated Inventory Value: 680.78
+Updated Balance: 9308
+
+
+Date: 2024-01-04
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'AMGN', 'WYNN', 'PNW', 'EVRG', 'PM', 'MRK', 'INCY', 'CNC', 'CAH', 'HSY', 'AEP', 'ABBV', 'ED', 'GILD', 'VZ', 'MCK', 'LLY', 'ALL', 'CNP', 'REGN', 'T', 'SO', 'FE']
+Purchase: {'REGN': 1, 'LLY': 1, 'ABBV': 1}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 1, 'LLY': 1, 'ABBV': 1}
+Updated Inventory Value: 2363.75
+Updated Balance: 7617
+
+
+Date: 2024-01-05
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'KHC', 'CI', 'AMGN', 'WYNN', 'PNW', 'COR', 'CINF', 'D', 'MRK', 'TMUS', 'INCY', 'CNC', 'UAL', 'DGX', 'CAH', 'MET', 'AEP', 'ABBV', 'ED', 'WRB', 'FITB', 'VZ', 'MCK', 'LLY', 'ALL', 'REGN', 'T', 'TSN', 'WEC', 'FE', 'BSX', 'ETR']
+Purchase: {'ABBV': 1, 'WRB': 1, 'MRNA': 3}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 1, 'LLY': 1, 'ABBV': 2, 'WRB': 1, 'MRNA': 3}
+Updated Inventory Value: 2915.53
+Updated Balance: 7069
+
+
+Date: 2024-01-08
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'COF', 'KHC', 'CI', 'AMGN', 'WYNN', 'DAL', 'FIS', 'CINF', 'D', 'TFC', 'MRK', 'BAX', 'UAL', 'MET', 'AEP', 'EG', 'ABBV', 'DVA', 'WRB', 'MTCH', 'FITB', 'VZ', 'GPN', 'JNPR', 'IP', 'MCK', 'LLY', 'NEE', 'DXCM', 'ALL', 'LVS', 'REGN', 'MDT', 'FE', 'ETR']
+Purchase: {'MCK': 1, 'LVS': 1, 'REGN': 1}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 2, 'LLY': 1, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1}
+Updated Inventory Value: 4356.71
+Updated Balance: 5635
+
+
+Date: 2024-01-09
+Available (with buy signal): ['MOH', 'VTRS', 'MRNA', 'SMCI', 'AMGN', 'CTLT', 'NVDA', 'DAL', 'MRK', 'BAX', 'CNC', 'UAL', 'MET', 'EG', 'PGR', 'GILD', 'MTCH', 'CRWD', 'JNPR', 'IP', 'MCK', 'LLY', 'DXCM', 'ALL', 'REGN', 'STZ', 'MDT', 'FE', 'BSX', 'RMD']
+Purchase: {'REGN': 1, 'PGR': 1, 'JNPR': 1}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 3, 'LLY': 1, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1, 'PGR': 1, 'JNPR': 1}
+Updated Inventory Value: 5451.11
+Updated Balance: 4526
+
+
+Date: 2024-01-10
+Available (with buy signal): ['PANW', 'VTRS', 'MRNA', 'SMCI', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'DAL', 'TAP', 'MRK', 'DHI', 'HAS', 'BAX', 'UBER', 'FICO', 'UAL', 'MET', 'EG', 'ABBV', 'PGR', 'DVA', 'MTCH', 'CRWD', 'GPN', 'JNPR', 'IP', 'MCK', 'AON', 'ADSK', 'LLY', 'MHK', 'DXCM', 'ALL', 'LUV', 'STZ', 'MDT', 'FE', 'BSX', 'RMD']
+Purchase: {'STZ': 1, 'DHI': 1, 'FICO': 1}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 3, 'LLY': 1, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1, 'PGR': 1, 'JNPR': 1, 'STZ': 1, 'DHI': 1, 'FICO': 1}
+Updated Inventory Value: 7073.74
+Updated Balance: 2913
+
+
+Date: 2024-01-11
+Available (with buy signal): ['PANW', 'VTRS', 'SMCI', 'ISRG', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'COR', 'DAL', 'TAP', 'MRK', 'DHI', 'UBER', 'FICO', 'CNC', 'UAL', 'FTNT', 'EG', 'ABBV', 'PGR', 'DVA', 'LEN', 'CRWD', 'JNPR', 'GEN', 'IP', 'MCK', 'ADSK', 'LLY', 'AVGO', 'DXCM', 'ALL', 'VRTX', 'LUV', 'STZ', 'CTSH', 'MDT', 'BSX', 'RMD']
+Purchase: {'FTNT': 1, 'CNC': 2, 'DAL': 2}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 3, 'LLY': 1, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1, 'PGR': 1, 'JNPR': 1, 'STZ': 1, 'DHI': 1, 'FICO': 1, 'FTNT': 1, 'CNC': 2, 'DAL': 2}
+Updated Inventory Value: 7417.61
+Updated Balance: 2604
+
+
+Date: 2024-01-12
+Available (with buy signal): ['PANW', 'SYK', 'VTRS', 'SMCI', 'ISRG', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'COR', 'DOC', 'MRK', 'URI', 'IBM', 'UBER', 'FICO', 'FTNT', 'PGR', 'GILD', 'CRWD', 'AJG', 'JNPR', 'GEN', 'ADSK', 'LLY', 'AVGO', 'META', 'AMZN', 'ALL', 'VRTX', 'DLR', 'STZ', 'CTSH', 'MDT', 'BSX', 'CRM']
+Purchase: {'LLY': 1, 'AMGN': 2, 'SMCI': 2}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 3, 'LLY': 2, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1, 'PGR': 1, 'JNPR': 1, 'STZ': 1, 'DHI': 1, 'FICO': 1, 'FTNT': 1, 'CNC': 2, 'DAL': 2, 'AMGN': 2, 'SMCI': 2}
+Updated Inventory Value: 8806.28
+Updated Balance: 1278
+
+
+Date: 2024-01-16
+Available (with buy signal): ['PANW', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'COR', 'DOC', 'AMAT', 'BK', 'MRK', 'URI', 'IBM', 'QCOM', 'UBER', 'FICO', 'STX', 'AMD', 'FTNT', 'PGR', 'BRO', 'CRWD', 'MU', 'DECK', 'ADSK', 'LLY', 'AVGO', 'DIS', 'META', 'ALL', 'VRTX', 'DLR', 'STZ', 'DPZ', 'MSFT', 'KLAC', 'CTSH', 'CRM']
+Purchase: {'STX': 1, 'CRWD': 1, 'URI': 1}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 3, 'LLY': 2, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1, 'PGR': 1, 'JNPR': 1, 'STZ': 1, 'DHI': 1, 'FICO': 1, 'FTNT': 1, 'CNC': 2, 'DAL': 2, 'AMGN': 2, 'SMCI': 2, 'STX': 1, 'CRWD': 1, 'URI': 1}
+Updated Inventory Value: 9693.27
+Updated Balance: 342
+
+1 failed attempt for a purchase for 2024-01-17.
+
+2 failed attempt for a purchase for 2024-01-17.
+
+3 failed attempt for a purchase for 2024-01-17.
+
+
+Date: 2024-01-17
+Available (with buy signal): ['PANW', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'NOW', 'BK', 'CDNS', 'IBM', 'GDDY', 'UBER', 'FICO', 'AMD', 'FTNT', 'BRO', 'CRWD', 'DECK', 'META', 'VRTX', 'DPZ', 'MSFT', 'BSX', 'CRM']
+Purchase: {'DECK': 1, 'BSX': 1, 'WDC': 1}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 3, 'LLY': 2, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1, 'PGR': 1, 'JNPR': 1, 'STZ': 1, 'DHI': 1, 'FICO': 1, 'FTNT': 1, 'CNC': 2, 'DAL': 2, 'AMGN': 2, 'SMCI': 2, 'STX': 1, 'CRWD': 1, 'URI': 1, 'DECK': 1, 'BSX': 1, 'WDC': 1}
+Updated Inventory Value: 9862.1
+Updated Balance: 105
+
+1 failed attempt for a purchase for 2024-01-18.
+
+2 failed attempt for a purchase for 2024-01-18.
+
+3 failed attempt for a purchase for 2024-01-18.
+
+4 failed attempt for a purchase for 2024-01-18.
+
+5 failed attempt for a purchase for 2024-01-18.
+
+6 failed attempt for a purchase for 2024-01-18.
+
+7 failed attempt for a purchase for 2024-01-18.
+
+8 failed attempt for a purchase for 2024-01-18.
+
+9 failed attempt for a purchase for 2024-01-18.
+
+10 failed attempt for a purchase for 2024-01-18.
+
+
+Date: 2024-01-18
+Available (with buy signal): ['PANW', 'CBOE', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'NOW', 'AMAT', 'BK', 'CDNS', 'COST', 'TDG', 'GDDY', 'AZO', 'QCOM', 'UBER', 'FICO', 'AMD', 'FAST', 'BRO', 'CRWD', 'ORCL', 'DECK', 'GWW', 'AON', 'AVGO', 'META', 'IT', 'LUV', 'TSCO', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'BSX', 'CRM', 'ACN']
+Purchase: {}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 3, 'LLY': 2, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1, 'PGR': 1, 'JNPR': 1, 'STZ': 1, 'DHI': 1, 'FICO': 1, 'FTNT': 1, 'CNC': 2, 'DAL': 2, 'AMGN': 2, 'SMCI': 2, 'STX': 1, 'CRWD': 1, 'URI': 1, 'DECK': 1, 'BSX': 1, 'WDC': 1}
+Updated Inventory Value: 9901.52
+Updated Balance: 105
+
+1 failed attempt for a purchase for 2024-01-19.
+
+2 failed attempt for a purchase for 2024-01-19.
+
+3 failed attempt for a purchase for 2024-01-19.
+
+4 failed attempt for a purchase for 2024-01-19.
+
+5 failed attempt for a purchase for 2024-01-19.
+
+6 failed attempt for a purchase for 2024-01-19.
+
+7 failed attempt for a purchase for 2024-01-19.
+
+8 failed attempt for a purchase for 2024-01-19.
+
+9 failed attempt for a purchase for 2024-01-19.
+
+10 failed attempt for a purchase for 2024-01-19.
+
+
+Date: 2024-01-19
+Available (with buy signal): ['PANW', 'CBOE', 'TXN', 'HD', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'AMAT', 'BK', 'CDNS', 'COST', 'URI', 'IBM', 'TDG', 'GDDY', 'AZO', 'CDW', 'QCOM', 'UBER', 'FICO', 'STX', 'TER', 'AMD', 'INTU', 'FAST', 'AXON', 'BRO', 'CRWD', 'ORCL', 'MU', 'BLDR', 'TRV', 'JBHT', 'AJG', 'DECK', 'GEN', 'GWW', 'AON', 'ADSK', 'AVGO', 'DIS', 'META', 'MCHP', 'DELL', 'TYL', 'IT', 'MPWR', 'ADBE', 'LUV', 'TSCO', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'GOOGL', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'RCL']
+Purchase: {}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 3, 'LLY': 2, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1, 'PGR': 1, 'JNPR': 1, 'STZ': 1, 'DHI': 1, 'FICO': 1, 'FTNT': 1, 'CNC': 2, 'DAL': 2, 'AMGN': 2, 'SMCI': 2, 'STX': 1, 'CRWD': 1, 'URI': 1, 'DECK': 1, 'BSX': 1, 'WDC': 1}
+Updated Inventory Value: 9975.74
+Updated Balance: 105
+
+1 failed attempt for a purchase for 2024-01-22.
+
+2 failed attempt for a purchase for 2024-01-22.
+
+3 failed attempt for a purchase for 2024-01-22.
+
+4 failed attempt for a purchase for 2024-01-22.
+
+5 failed attempt for a purchase for 2024-01-22.
+
+6 failed attempt for a purchase for 2024-01-22.
+
+7 failed attempt for a purchase for 2024-01-22.
+
+8 failed attempt for a purchase for 2024-01-22.
+
+9 failed attempt for a purchase for 2024-01-22.
+
+10 failed attempt for a purchase for 2024-01-22.
+
+
+Date: 2024-01-22
+Available (with buy signal): ['C', 'HAL', 'PANW', 'CBOE', 'TXN', 'DAY', 'COF', 'SMCI', 'ISRG', 'WDC', 'ANET', 'RF', 'ACGL', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'WAT', 'AMAT', 'NTAP', 'EMR', 'DHI', 'CDNS', 'CPRT', 'URI', 'IBM', 'TDG', 'GDDY', 'AZO', 'AIG', 'ALLE', 'QCOM', 'FICO', 'STX', 'TER', 'AMD', 'INTU', 'FAST', 'AKAM', 'AXON', 'MTD', 'SWKS', 'PH', 'BRO', 'PYPL', 'CRWD', 'ORCL', 'MU', 'BLDR', 'TRV', 'JBHT', 'FFIV', 'RL', 'FTV', 'DECK', 'GEN', 'GWW', 'KEY', 'ADSK', 'AVGO', 'NVR', 'DIS', 'CRL', 'META', 'MCHP', 'DELL', 'TYL', 'IT', 'QRVO', 'DLR', 'MPWR', 'ODFL', 'LUV', 'TSCO', 'NXPI', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'GOOGL', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PLTR', 'PCAR']
+Purchase: {}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 3, 'LLY': 2, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1, 'PGR': 1, 'JNPR': 1, 'STZ': 1, 'DHI': 1, 'FICO': 1, 'FTNT': 1, 'CNC': 2, 'DAL': 2, 'AMGN': 2, 'SMCI': 2, 'STX': 1, 'CRWD': 1, 'URI': 1, 'DECK': 1, 'BSX': 1, 'WDC': 1}
+Updated Inventory Value: 10078.1
+Updated Balance: 105
+
+1 failed attempt for a purchase for 2024-01-23.
+
+2 failed attempt for a purchase for 2024-01-23.
+
+3 failed attempt for a purchase for 2024-01-23.
+
+4 failed attempt for a purchase for 2024-01-23.
+
+5 failed attempt for a purchase for 2024-01-23.
+
+6 failed attempt for a purchase for 2024-01-23.
+
+7 failed attempt for a purchase for 2024-01-23.
+
+8 failed attempt for a purchase for 2024-01-23.
+
+9 failed attempt for a purchase for 2024-01-23.
+
+10 failed attempt for a purchase for 2024-01-23.
+
+
+Date: 2024-01-23
+Available (with buy signal): ['C', 'HAL', 'PANW', 'F', 'CBOE', 'TXN', 'DAY', 'COF', 'SMCI', 'AXP', 'ISRG', 'WDC', 'ANET', 'RF', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'WAT', 'AMAT', 'NSC', 'NTAP', 'CDNS', 'CPRT', 'URI', 'IBM', 'TDG', 'AZO', 'AIG', 'MSI', 'ALLE', 'CB', 'QCOM', 'FICO', 'STX', 'TER', 'UAL', 'AMD', 'INTU', 'FAST', 'AKAM', 'MTD', 'SWKS', 'BRO', 'WRB', 'ALB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'FTV', 'DECK', 'GWW', 'KEY', 'ADSK', 'AVGO', 'RTX', 'DIS', 'META', 'MCHP', 'TYL', 'IT', 'QRVO', 'GIS', 'MPWR', 'ITW', 'LUV', 'NXPI', 'T', 'LRCX', 'WFC', 'MSFT', 'KLAC', 'SLB', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PLTR', 'PCAR']
+Purchase: {}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 3, 'LLY': 2, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1, 'PGR': 1, 'JNPR': 1, 'STZ': 1, 'DHI': 1, 'FICO': 1, 'FTNT': 1, 'CNC': 2, 'DAL': 2, 'AMGN': 2, 'SMCI': 2, 'STX': 1, 'CRWD': 1, 'URI': 1, 'DECK': 1, 'BSX': 1, 'WDC': 1}
+Updated Inventory Value: 10113.67
+Updated Balance: 105
+
+1 failed attempt for a purchase for 2024-01-24.
+
+2 failed attempt for a purchase for 2024-01-24.
+
+3 failed attempt for a purchase for 2024-01-24.
+
+4 failed attempt for a purchase for 2024-01-24.
+
+5 failed attempt for a purchase for 2024-01-24.
+
+6 failed attempt for a purchase for 2024-01-24.
+
+7 failed attempt for a purchase for 2024-01-24.
+
+8 failed attempt for a purchase for 2024-01-24.
+
+9 failed attempt for a purchase for 2024-01-24.
+
+10 failed attempt for a purchase for 2024-01-24.
+
+
+Date: 2024-01-24
+Available (with buy signal): ['C', 'HAL', 'PANW', 'CBOE', 'XOM', 'DAY', 'COF', 'SMCI', 'AXP', 'ISRG', 'WDC', 'ANET', 'RF', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'SNPS', 'NOW', 'CINF', 'AMAT', 'TFC', 'HBAN', 'APTV', 'CDNS', 'PTC', 'IBM', 'TDG', 'AZO', 'AIG', 'NFLX', 'MSI', 'CB', 'QCOM', 'STX', 'TER', 'UAL', 'AMD', 'CAT', 'INTU', 'FTNT', 'FAST', 'AKAM', 'SWKS', 'BRO', 'WRB', 'ALB', 'PYPL', 'FITB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'TXT', 'FTV', 'DECK', 'GWW', 'KEY', 'ADSK', 'AVGO', 'RTX', 'META', 'MCHP', 'DELL', 'TYL', 'PSX', 'TEL', 'GD', 'MPWR', 'LUV', 'NXPI', 'MAR', 'HES', 'LRCX', 'WFC', 'MSFT', 'KLAC', 'SLB', 'ADI', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 3, 'LLY': 2, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1, 'PGR': 1, 'JNPR': 1, 'STZ': 1, 'DHI': 1, 'FICO': 1, 'FTNT': 1, 'CNC': 2, 'DAL': 2, 'AMGN': 2, 'SMCI': 2, 'STX': 1, 'CRWD': 1, 'URI': 1, 'DECK': 1, 'BSX': 1, 'WDC': 1}
+Updated Inventory Value: 10068.4
+Updated Balance: 105
+
+1 failed attempt for a purchase for 2024-01-25.
+
+2 failed attempt for a purchase for 2024-01-25.
+
+3 failed attempt for a purchase for 2024-01-25.
+
+4 failed attempt for a purchase for 2024-01-25.
+
+5 failed attempt for a purchase for 2024-01-25.
+
+6 failed attempt for a purchase for 2024-01-25.
+
+7 failed attempt for a purchase for 2024-01-25.
+
+8 failed attempt for a purchase for 2024-01-25.
+
+9 failed attempt for a purchase for 2024-01-25.
+
+10 failed attempt for a purchase for 2024-01-25.
+
+
+Date: 2024-01-25
+Available (with buy signal): ['C', 'HAL', 'PANW', 'F', 'CBOE', 'NRG', 'XOM', 'DAY', 'COF', 'SMCI', 'AXP', 'WDC', 'ANET', 'RF', 'EOG', 'WYNN', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'SNPS', 'NOW', 'CVX', 'COP', 'AMAT', 'TFC', 'NTAP', 'HBAN', 'APTV', 'CDNS', 'PTC', 'URI', 'IBM', 'TDG', 'AZO', 'CEG', 'HAS', 'NFLX', 'ALLE', 'CB', 'EBAY', 'QCOM', 'UBER', 'STX', 'TER', 'UAL', 'APA', 'SYF', 'AMD', 'CMCSA', 'CAT', 'INTU', 'DVN', 'FTNT', 'FAST', 'APH', 'AKAM', 'PGR', 'BRO', 'WRB', 'MTCH', 'FITB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'TXT', 'RL', 'FTV', 'DECK', 'GEN', 'GWW', 'KEY', 'AVGO', 'RTX', 'FRT', 'META', 'DELL', 'CF', 'PSX', 'ALL', 'TEL', 'GD', 'LVS', 'IPG', 'DLR', 'TTWO', 'VLO', 'ITW', 'MKC', 'NXPI', 'MAR', 'T', 'HES', 'DFS', 'LRCX', 'WFC', 'KLAC', 'MS', 'CTSH', 'GOOGL', 'PARA', 'SLB', 'AAPL', 'ACN', 'GOOG', 'MTB', 'RMD', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 3, 'LLY': 2, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1, 'PGR': 1, 'JNPR': 1, 'STZ': 1, 'DHI': 1, 'FICO': 1, 'FTNT': 1, 'CNC': 2, 'DAL': 2, 'AMGN': 2, 'SMCI': 2, 'STX': 1, 'CRWD': 1, 'URI': 1, 'DECK': 1, 'BSX': 1, 'WDC': 1}
+Updated Inventory Value: 10176.26
+Updated Balance: 105
+
+1 failed attempt for a purchase for 2024-01-26.
+
+2 failed attempt for a purchase for 2024-01-26.
+
+3 failed attempt for a purchase for 2024-01-26.
+
+4 failed attempt for a purchase for 2024-01-26.
+
+5 failed attempt for a purchase for 2024-01-26.
+
+6 failed attempt for a purchase for 2024-01-26.
+
+7 failed attempt for a purchase for 2024-01-26.
+
+8 failed attempt for a purchase for 2024-01-26.
+
+9 failed attempt for a purchase for 2024-01-26.
+
+10 failed attempt for a purchase for 2024-01-26.
+
+
+Date: 2024-01-26
+Available (with buy signal): ['C', 'HAL', 'F', 'NRG', 'XOM', 'COF', 'SMCI', 'AXP', 'WDC', 'RF', 'BRK-B', 'CTLT', 'EOG', 'WYNN', 'PNW', 'HLT', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'NOW', 'CVX', 'COP', 'TFC', 'HBAN', 'APTV', 'CDNS', 'URI', 'IBM', 'TDG', 'AZO', 'CEG', 'HAS', 'NFLX', 'ABNB', 'CB', 'EBAY', 'IFF', 'STX', 'UAL', 'APA', 'SYF', 'AMD', 'CMCSA', 'CAT', 'WMB', 'INTU', 'DVN', 'FTNT', 'FAST', 'TRGP', 'PGR', 'BRO', 'WRB', 'MTCH', 'FITB', 'ORCL', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'MPC', 'CSGP', 'TXT', 'RL', 'DECK', 'IP', 'KEY', 'RTX', 'FRT', 'CRL', 'META', 'DELL', 'CF', 'PSX', 'ALL', 'TEL', 'GD', 'LVS', 'IPG', 'DLR', 'VLO', 'MKC', 'MAR', 'CTRA', 'T', 'HES', 'DFS', 'LRCX', 'WFC', 'MS', 'GOOGL', 'PARA', 'SLB', 'ACN', 'GOOG', 'RMD', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'EXR': 1, 'C': 2, 'DD': 1, 'VTRS': 1, 'SJM': 2, 'GIS': 1, 'REGN': 3, 'LLY': 2, 'ABBV': 2, 'WRB': 1, 'MRNA': 3, 'MCK': 1, 'LVS': 1, 'PGR': 1, 'JNPR': 1, 'STZ': 1, 'DHI': 1, 'FICO': 1, 'FTNT': 1, 'CNC': 2, 'DAL': 2, 'AMGN': 2, 'SMCI': 2, 'STX': 1, 'CRWD': 1, 'URI': 1, 'DECK': 1, 'BSX': 1, 'WDC': 1}
+Updated Inventory Value: 10054.89
+Updated Balance: 105
+
+No stocks with a buying signal for the date 2024-01-29.
+--------------------------------------------------------------------------------------
+
+==================================================
+|                   Iteration  3                   |
+==================================================
+
+Date: 2024-01-02
+Available (with buy signal): ['C', 'BIIB', 'MOH', 'SJM', 'VTRS', 'MRNA', 'ANSS', 'CI', 'MNST', 'AMGN', 'CTLT', 'WYNN', 'PNW', 'EVRG', 'MO', 'INTC', 'DLTR', 'JCI', 'D', 'DD', 'RVTY', 'PM', 'MRK', 'AIG', 'INCY', 'CNC', 'PPL', 'DGX', 'PFE', 'HSY', 'AEP', 'ED', 'GILD', 'DG', 'MTCH', 'PSA', 'CVS', 'ENPH', 'MCK', 'CPB', 'DELL', 'FMC', 'LVS', 'CNP', 'GIS', 'T', 'TSN', 'FE', 'ETR', 'EXC', 'EXR', 'K']
+Purchase: {'INTC': 2, 'CPB': 1, 'FE': 1}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 1}
+Updated Inventory Value: 177.74
+Updated Balance: 9819
+
+
+Date: 2024-01-03
+Available (with buy signal): ['C', 'MOH', 'SJM', 'VTRS', 'MRNA', 'AMGN', 'EOG', 'WYNN', 'PNW', 'EVRG', 'INTC', 'D', 'PM', 'MRK', 'INCY', 'ES', 'CNC', 'PPL', 'WMB', 'PFE', 'HSY', 'AEP', 'ED', 'GILD', 'JNJ', 'JNPR', 'MCK', 'LLY', 'CPB', 'CF', 'ALL', 'DUK', 'LVS', 'CNP', 'GIS', 'REGN', 'T', 'TSN', 'HES', 'SO', 'FE', 'ETR', 'K']
+Purchase: {'MRK': 1, 'T': 1, 'ETR': 2}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 1, 'MRK': 1, 'T': 1, 'ETR': 2}
+Updated Inventory Value: 514.53
+Updated Balance: 9478
+
+
+Date: 2024-01-04
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'AMGN', 'WYNN', 'PNW', 'EVRG', 'PM', 'MRK', 'INCY', 'CNC', 'CAH', 'HSY', 'AEP', 'ABBV', 'ED', 'GILD', 'VZ', 'MCK', 'LLY', 'ALL', 'CNP', 'REGN', 'T', 'SO', 'FE']
+Purchase: {'VZ': 1, 'MCK': 2, 'LLY': 1}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 1, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 2, 'LLY': 1}
+Updated Inventory Value: 2118.21
+Updated Balance: 7872
+
+
+Date: 2024-01-05
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'KHC', 'CI', 'AMGN', 'WYNN', 'PNW', 'COR', 'CINF', 'D', 'MRK', 'TMUS', 'INCY', 'CNC', 'UAL', 'DGX', 'CAH', 'MET', 'AEP', 'ABBV', 'ED', 'WRB', 'FITB', 'VZ', 'MCK', 'LLY', 'ALL', 'REGN', 'T', 'TSN', 'WEC', 'FE', 'BSX', 'ETR']
+Purchase: {'MCK': 1, 'WYNN': 1, 'CINF': 2}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 1, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 1, 'WYNN': 1, 'CINF': 2}
+Updated Inventory Value: 2921.78
+Updated Balance: 7081
+
+
+Date: 2024-01-08
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'COF', 'KHC', 'CI', 'AMGN', 'WYNN', 'DAL', 'FIS', 'CINF', 'D', 'TFC', 'MRK', 'BAX', 'UAL', 'MET', 'AEP', 'EG', 'ABBV', 'DVA', 'WRB', 'MTCH', 'FITB', 'VZ', 'GPN', 'JNPR', 'IP', 'MCK', 'LLY', 'NEE', 'DXCM', 'ALL', 'LVS', 'REGN', 'MDT', 'FE', 'ETR']
+Purchase: {'LLY': 1, 'COF': 1, 'GPN': 3}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 1, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 2, 'WYNN': 1, 'CINF': 2, 'COF': 1, 'GPN': 3}
+Updated Inventory Value: 4090.27
+Updated Balance: 5919
+
+
+Date: 2024-01-09
+Available (with buy signal): ['MOH', 'VTRS', 'MRNA', 'SMCI', 'AMGN', 'CTLT', 'NVDA', 'DAL', 'MRK', 'BAX', 'CNC', 'UAL', 'MET', 'EG', 'PGR', 'GILD', 'MTCH', 'CRWD', 'JNPR', 'IP', 'MCK', 'LLY', 'DXCM', 'ALL', 'REGN', 'STZ', 'MDT', 'FE', 'BSX', 'RMD']
+Purchase: {'JNPR': 2, 'MDT': 1, 'FE': 2}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 3, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 2, 'WYNN': 1, 'CINF': 2, 'COF': 1, 'GPN': 3, 'JNPR': 2, 'MDT': 1}
+Updated Inventory Value: 4329.27
+Updated Balance: 5678
+
+
+Date: 2024-01-10
+Available (with buy signal): ['PANW', 'VTRS', 'MRNA', 'SMCI', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'DAL', 'TAP', 'MRK', 'DHI', 'HAS', 'BAX', 'UBER', 'FICO', 'UAL', 'MET', 'EG', 'ABBV', 'PGR', 'DVA', 'MTCH', 'CRWD', 'GPN', 'JNPR', 'IP', 'MCK', 'AON', 'ADSK', 'LLY', 'MHK', 'DXCM', 'ALL', 'LUV', 'STZ', 'MDT', 'FE', 'BSX', 'RMD']
+Purchase: {'IP': 2, 'ANET': 2, 'EG': 1}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 3, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 2, 'WYNN': 1, 'CINF': 2, 'COF': 1, 'GPN': 3, 'JNPR': 2, 'MDT': 1, 'IP': 2, 'ANET': 2, 'EG': 1}
+Updated Inventory Value: 5293.78
+Updated Balance: 4731
+
+
+Date: 2024-01-11
+Available (with buy signal): ['PANW', 'VTRS', 'SMCI', 'ISRG', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'COR', 'DAL', 'TAP', 'MRK', 'DHI', 'UBER', 'FICO', 'CNC', 'UAL', 'FTNT', 'EG', 'ABBV', 'PGR', 'DVA', 'LEN', 'CRWD', 'JNPR', 'GEN', 'IP', 'MCK', 'ADSK', 'LLY', 'AVGO', 'DXCM', 'ALL', 'VRTX', 'LUV', 'STZ', 'CTSH', 'MDT', 'BSX', 'RMD']
+Purchase: {'SMCI': 1, 'UBER': 2, 'ADSK': 2}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 3, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 2, 'WYNN': 1, 'CINF': 2, 'COF': 1, 'GPN': 3, 'JNPR': 2, 'MDT': 1, 'IP': 2, 'ANET': 2, 'EG': 1, 'SMCI': 1, 'UBER': 2, 'ADSK': 2}
+Updated Inventory Value: 5961.66
+Updated Balance: 4086
+
+
+Date: 2024-01-12
+Available (with buy signal): ['PANW', 'SYK', 'VTRS', 'SMCI', 'ISRG', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'COR', 'DOC', 'MRK', 'URI', 'IBM', 'UBER', 'FICO', 'FTNT', 'PGR', 'GILD', 'CRWD', 'AJG', 'JNPR', 'GEN', 'ADSK', 'LLY', 'AVGO', 'META', 'AMZN', 'ALL', 'VRTX', 'DLR', 'STZ', 'CTSH', 'MDT', 'BSX', 'CRM']
+Purchase: {'LLY': 2, 'ALL': 2, 'CRM': 1}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 3, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 4, 'WYNN': 1, 'CINF': 2, 'COF': 1, 'GPN': 3, 'JNPR': 2, 'MDT': 1, 'IP': 2, 'ANET': 2, 'EG': 1, 'SMCI': 1, 'UBER': 2, 'ADSK': 2, 'ALL': 2, 'CRM': 1}
+Updated Inventory Value: 7819.2
+Updated Balance: 2223
+
+
+Date: 2024-01-16
+Available (with buy signal): ['PANW', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'COR', 'DOC', 'AMAT', 'BK', 'MRK', 'URI', 'IBM', 'QCOM', 'UBER', 'FICO', 'STX', 'AMD', 'FTNT', 'PGR', 'BRO', 'CRWD', 'MU', 'DECK', 'ADSK', 'LLY', 'AVGO', 'DIS', 'META', 'ALL', 'VRTX', 'DLR', 'STZ', 'DPZ', 'MSFT', 'KLAC', 'CTSH', 'CRM']
+Purchase: {'KLAC': 1, 'UBER': 2, 'DIS': 1}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 3, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 4, 'WYNN': 1, 'CINF': 2, 'COF': 1, 'GPN': 3, 'JNPR': 2, 'MDT': 1, 'IP': 2, 'ANET': 2, 'EG': 1, 'SMCI': 1, 'UBER': 4, 'ADSK': 2, 'ALL': 2, 'CRM': 1, 'KLAC': 1, 'DIS': 1}
+Updated Inventory Value: 8572.38
+Updated Balance: 1433
+
+1 failed attempt for a purchase for 2024-01-17.
+
+2 failed attempt for a purchase for 2024-01-17.
+
+
+Date: 2024-01-17
+Available (with buy signal): ['PANW', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'NOW', 'BK', 'CDNS', 'IBM', 'GDDY', 'UBER', 'FICO', 'AMD', 'FTNT', 'BRO', 'CRWD', 'DECK', 'META', 'VRTX', 'DPZ', 'MSFT', 'BSX', 'CRM']
+Purchase: {'MSFT': 1, 'SMCI': 1, 'ISRG': 2}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 3, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 4, 'WYNN': 1, 'CINF': 2, 'COF': 1, 'GPN': 3, 'JNPR': 2, 'MDT': 1, 'IP': 2, 'ANET': 2, 'EG': 1, 'SMCI': 2, 'UBER': 4, 'ADSK': 2, 'ALL': 2, 'CRM': 1, 'KLAC': 1, 'DIS': 1, 'MSFT': 1, 'ISRG': 2}
+Updated Inventory Value: 9639.26
+Updated Balance: 291
+
+1 failed attempt for a purchase for 2024-01-18.
+
+2 failed attempt for a purchase for 2024-01-18.
+
+3 failed attempt for a purchase for 2024-01-18.
+
+4 failed attempt for a purchase for 2024-01-18.
+
+5 failed attempt for a purchase for 2024-01-18.
+
+6 failed attempt for a purchase for 2024-01-18.
+
+7 failed attempt for a purchase for 2024-01-18.
+
+8 failed attempt for a purchase for 2024-01-18.
+
+9 failed attempt for a purchase for 2024-01-18.
+
+10 failed attempt for a purchase for 2024-01-18.
+
+
+Date: 2024-01-18
+Available (with buy signal): ['PANW', 'CBOE', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'NOW', 'AMAT', 'BK', 'CDNS', 'COST', 'TDG', 'GDDY', 'AZO', 'QCOM', 'UBER', 'FICO', 'AMD', 'FAST', 'BRO', 'CRWD', 'ORCL', 'DECK', 'GWW', 'AON', 'AVGO', 'META', 'IT', 'LUV', 'TSCO', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'BSX', 'CRM', 'ACN']
+Purchase: {}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 3, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 4, 'WYNN': 1, 'CINF': 2, 'COF': 1, 'GPN': 3, 'JNPR': 2, 'MDT': 1, 'IP': 2, 'ANET': 2, 'EG': 1, 'SMCI': 2, 'UBER': 4, 'ADSK': 2, 'ALL': 2, 'CRM': 1, 'KLAC': 1, 'DIS': 1, 'MSFT': 1, 'ISRG': 2}
+Updated Inventory Value: 9733.09
+Updated Balance: 291
+
+1 failed attempt for a purchase for 2024-01-19.
+
+2 failed attempt for a purchase for 2024-01-19.
+
+3 failed attempt for a purchase for 2024-01-19.
+
+4 failed attempt for a purchase for 2024-01-19.
+
+5 failed attempt for a purchase for 2024-01-19.
+
+6 failed attempt for a purchase for 2024-01-19.
+
+7 failed attempt for a purchase for 2024-01-19.
+
+8 failed attempt for a purchase for 2024-01-19.
+
+9 failed attempt for a purchase for 2024-01-19.
+
+10 failed attempt for a purchase for 2024-01-19.
+
+
+Date: 2024-01-19
+Available (with buy signal): ['PANW', 'CBOE', 'TXN', 'HD', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'AMAT', 'BK', 'CDNS', 'COST', 'URI', 'IBM', 'TDG', 'GDDY', 'AZO', 'CDW', 'QCOM', 'UBER', 'FICO', 'STX', 'TER', 'AMD', 'INTU', 'FAST', 'AXON', 'BRO', 'CRWD', 'ORCL', 'MU', 'BLDR', 'TRV', 'JBHT', 'AJG', 'DECK', 'GEN', 'GWW', 'AON', 'ADSK', 'AVGO', 'DIS', 'META', 'MCHP', 'DELL', 'TYL', 'IT', 'MPWR', 'ADBE', 'LUV', 'TSCO', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'GOOGL', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'RCL']
+Purchase: {}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 3, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 4, 'WYNN': 1, 'CINF': 2, 'COF': 1, 'GPN': 3, 'JNPR': 2, 'MDT': 1, 'IP': 2, 'ANET': 2, 'EG': 1, 'SMCI': 2, 'UBER': 4, 'ADSK': 2, 'ALL': 2, 'CRM': 1, 'KLAC': 1, 'DIS': 1, 'MSFT': 1, 'ISRG': 2}
+Updated Inventory Value: 9847.87
+Updated Balance: 291
+
+1 failed attempt for a purchase for 2024-01-22.
+
+2 failed attempt for a purchase for 2024-01-22.
+
+3 failed attempt for a purchase for 2024-01-22.
+
+4 failed attempt for a purchase for 2024-01-22.
+
+5 failed attempt for a purchase for 2024-01-22.
+
+6 failed attempt for a purchase for 2024-01-22.
+
+7 failed attempt for a purchase for 2024-01-22.
+
+8 failed attempt for a purchase for 2024-01-22.
+
+9 failed attempt for a purchase for 2024-01-22.
+
+10 failed attempt for a purchase for 2024-01-22.
+
+
+Date: 2024-01-22
+Available (with buy signal): ['C', 'HAL', 'PANW', 'CBOE', 'TXN', 'DAY', 'COF', 'SMCI', 'ISRG', 'WDC', 'ANET', 'RF', 'ACGL', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'WAT', 'AMAT', 'NTAP', 'EMR', 'DHI', 'CDNS', 'CPRT', 'URI', 'IBM', 'TDG', 'GDDY', 'AZO', 'AIG', 'ALLE', 'QCOM', 'FICO', 'STX', 'TER', 'AMD', 'INTU', 'FAST', 'AKAM', 'AXON', 'MTD', 'SWKS', 'PH', 'BRO', 'PYPL', 'CRWD', 'ORCL', 'MU', 'BLDR', 'TRV', 'JBHT', 'FFIV', 'RL', 'FTV', 'DECK', 'GEN', 'GWW', 'KEY', 'ADSK', 'AVGO', 'NVR', 'DIS', 'CRL', 'META', 'MCHP', 'DELL', 'TYL', 'IT', 'QRVO', 'DLR', 'MPWR', 'ODFL', 'LUV', 'TSCO', 'NXPI', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'GOOGL', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PLTR', 'PCAR']
+Purchase: {}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 3, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 4, 'WYNN': 1, 'CINF': 2, 'COF': 1, 'GPN': 3, 'JNPR': 2, 'MDT': 1, 'IP': 2, 'ANET': 2, 'EG': 1, 'SMCI': 2, 'UBER': 4, 'ADSK': 2, 'ALL': 2, 'CRM': 1, 'KLAC': 1, 'DIS': 1, 'MSFT': 1, 'ISRG': 2}
+Updated Inventory Value: 9897.76
+Updated Balance: 291
+
+1 failed attempt for a purchase for 2024-01-23.
+
+2 failed attempt for a purchase for 2024-01-23.
+
+3 failed attempt for a purchase for 2024-01-23.
+
+4 failed attempt for a purchase for 2024-01-23.
+
+5 failed attempt for a purchase for 2024-01-23.
+
+6 failed attempt for a purchase for 2024-01-23.
+
+7 failed attempt for a purchase for 2024-01-23.
+
+8 failed attempt for a purchase for 2024-01-23.
+
+9 failed attempt for a purchase for 2024-01-23.
+
+10 failed attempt for a purchase for 2024-01-23.
+
+
+Date: 2024-01-23
+Available (with buy signal): ['C', 'HAL', 'PANW', 'F', 'CBOE', 'TXN', 'DAY', 'COF', 'SMCI', 'AXP', 'ISRG', 'WDC', 'ANET', 'RF', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'WAT', 'AMAT', 'NSC', 'NTAP', 'CDNS', 'CPRT', 'URI', 'IBM', 'TDG', 'AZO', 'AIG', 'MSI', 'ALLE', 'CB', 'QCOM', 'FICO', 'STX', 'TER', 'UAL', 'AMD', 'INTU', 'FAST', 'AKAM', 'MTD', 'SWKS', 'BRO', 'WRB', 'ALB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'FTV', 'DECK', 'GWW', 'KEY', 'ADSK', 'AVGO', 'RTX', 'DIS', 'META', 'MCHP', 'TYL', 'IT', 'QRVO', 'GIS', 'MPWR', 'ITW', 'LUV', 'NXPI', 'T', 'LRCX', 'WFC', 'MSFT', 'KLAC', 'SLB', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PLTR', 'PCAR']
+Purchase: {}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 3, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 4, 'WYNN': 1, 'CINF': 2, 'COF': 1, 'GPN': 3, 'JNPR': 2, 'MDT': 1, 'IP': 2, 'ANET': 2, 'EG': 1, 'SMCI': 2, 'UBER': 4, 'ADSK': 2, 'ALL': 2, 'CRM': 1, 'KLAC': 1, 'DIS': 1, 'MSFT': 1, 'ISRG': 2}
+Updated Inventory Value: 9871.94
+Updated Balance: 291
+
+1 failed attempt for a purchase for 2024-01-24.
+
+2 failed attempt for a purchase for 2024-01-24.
+
+3 failed attempt for a purchase for 2024-01-24.
+
+4 failed attempt for a purchase for 2024-01-24.
+
+5 failed attempt for a purchase for 2024-01-24.
+
+6 failed attempt for a purchase for 2024-01-24.
+
+7 failed attempt for a purchase for 2024-01-24.
+
+8 failed attempt for a purchase for 2024-01-24.
+
+9 failed attempt for a purchase for 2024-01-24.
+
+
+Date: 2024-01-24
+Available (with buy signal): ['C', 'HAL', 'PANW', 'CBOE', 'XOM', 'DAY', 'COF', 'SMCI', 'AXP', 'ISRG', 'WDC', 'ANET', 'RF', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'SNPS', 'NOW', 'CINF', 'AMAT', 'TFC', 'HBAN', 'APTV', 'CDNS', 'PTC', 'IBM', 'TDG', 'AZO', 'AIG', 'NFLX', 'MSI', 'CB', 'QCOM', 'STX', 'TER', 'UAL', 'AMD', 'CAT', 'INTU', 'FTNT', 'FAST', 'AKAM', 'SWKS', 'BRO', 'WRB', 'ALB', 'PYPL', 'FITB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'TXT', 'FTV', 'DECK', 'GWW', 'KEY', 'ADSK', 'AVGO', 'RTX', 'META', 'MCHP', 'DELL', 'TYL', 'PSX', 'TEL', 'GD', 'MPWR', 'LUV', 'NXPI', 'MAR', 'HES', 'LRCX', 'WFC', 'MSFT', 'KLAC', 'SLB', 'ADI', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PCAR', 'NUE', 'HIG']
+Purchase: {'FTNT': 1, 'HAL': 1, 'CINF': 1}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 3, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 4, 'WYNN': 1, 'CINF': 3, 'COF': 1, 'GPN': 3, 'JNPR': 2, 'MDT': 1, 'IP': 2, 'ANET': 2, 'EG': 1, 'SMCI': 2, 'UBER': 4, 'ADSK': 2, 'ALL': 2, 'CRM': 1, 'KLAC': 1, 'DIS': 1, 'MSFT': 1, 'ISRG': 2, 'FTNT': 1, 'HAL': 1}
+Updated Inventory Value: 10120.6
+Updated Balance: 72
+
+1 failed attempt for a purchase for 2024-01-25.
+
+2 failed attempt for a purchase for 2024-01-25.
+
+3 failed attempt for a purchase for 2024-01-25.
+
+4 failed attempt for a purchase for 2024-01-25.
+
+5 failed attempt for a purchase for 2024-01-25.
+
+6 failed attempt for a purchase for 2024-01-25.
+
+7 failed attempt for a purchase for 2024-01-25.
+
+8 failed attempt for a purchase for 2024-01-25.
+
+9 failed attempt for a purchase for 2024-01-25.
+
+10 failed attempt for a purchase for 2024-01-25.
+
+
+Date: 2024-01-25
+Available (with buy signal): ['C', 'HAL', 'PANW', 'F', 'CBOE', 'NRG', 'XOM', 'DAY', 'COF', 'SMCI', 'AXP', 'WDC', 'ANET', 'RF', 'EOG', 'WYNN', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'SNPS', 'NOW', 'CVX', 'COP', 'AMAT', 'TFC', 'NTAP', 'HBAN', 'APTV', 'CDNS', 'PTC', 'URI', 'IBM', 'TDG', 'AZO', 'CEG', 'HAS', 'NFLX', 'ALLE', 'CB', 'EBAY', 'QCOM', 'UBER', 'STX', 'TER', 'UAL', 'APA', 'SYF', 'AMD', 'CMCSA', 'CAT', 'INTU', 'DVN', 'FTNT', 'FAST', 'APH', 'AKAM', 'PGR', 'BRO', 'WRB', 'MTCH', 'FITB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'TXT', 'RL', 'FTV', 'DECK', 'GEN', 'GWW', 'KEY', 'AVGO', 'RTX', 'FRT', 'META', 'DELL', 'CF', 'PSX', 'ALL', 'TEL', 'GD', 'LVS', 'IPG', 'DLR', 'TTWO', 'VLO', 'ITW', 'MKC', 'NXPI', 'MAR', 'T', 'HES', 'DFS', 'LRCX', 'WFC', 'KLAC', 'MS', 'CTSH', 'GOOGL', 'PARA', 'SLB', 'AAPL', 'ACN', 'GOOG', 'MTB', 'RMD', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 3, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 4, 'WYNN': 1, 'CINF': 3, 'COF': 1, 'GPN': 3, 'JNPR': 2, 'MDT': 1, 'IP': 2, 'ANET': 2, 'EG': 1, 'SMCI': 2, 'UBER': 4, 'ADSK': 2, 'ALL': 2, 'CRM': 1, 'KLAC': 1, 'DIS': 1, 'MSFT': 1, 'ISRG': 2, 'FTNT': 1, 'HAL': 1}
+Updated Inventory Value: 10154.7
+Updated Balance: 72
+
+1 failed attempt for a purchase for 2024-01-26.
+
+2 failed attempt for a purchase for 2024-01-26.
+
+3 failed attempt for a purchase for 2024-01-26.
+
+4 failed attempt for a purchase for 2024-01-26.
+
+5 failed attempt for a purchase for 2024-01-26.
+
+6 failed attempt for a purchase for 2024-01-26.
+
+7 failed attempt for a purchase for 2024-01-26.
+
+8 failed attempt for a purchase for 2024-01-26.
+
+9 failed attempt for a purchase for 2024-01-26.
+
+10 failed attempt for a purchase for 2024-01-26.
+
+
+Date: 2024-01-26
+Available (with buy signal): ['C', 'HAL', 'F', 'NRG', 'XOM', 'COF', 'SMCI', 'AXP', 'WDC', 'RF', 'BRK-B', 'CTLT', 'EOG', 'WYNN', 'PNW', 'HLT', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'NOW', 'CVX', 'COP', 'TFC', 'HBAN', 'APTV', 'CDNS', 'URI', 'IBM', 'TDG', 'AZO', 'CEG', 'HAS', 'NFLX', 'ABNB', 'CB', 'EBAY', 'IFF', 'STX', 'UAL', 'APA', 'SYF', 'AMD', 'CMCSA', 'CAT', 'WMB', 'INTU', 'DVN', 'FTNT', 'FAST', 'TRGP', 'PGR', 'BRO', 'WRB', 'MTCH', 'FITB', 'ORCL', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'MPC', 'CSGP', 'TXT', 'RL', 'DECK', 'IP', 'KEY', 'RTX', 'FRT', 'CRL', 'META', 'DELL', 'CF', 'PSX', 'ALL', 'TEL', 'GD', 'LVS', 'IPG', 'DLR', 'VLO', 'MKC', 'MAR', 'CTRA', 'T', 'HES', 'DFS', 'LRCX', 'WFC', 'MS', 'GOOGL', 'PARA', 'SLB', 'ACN', 'GOOG', 'RMD', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'INTC': 2, 'CPB': 1, 'FE': 3, 'MRK': 1, 'T': 1, 'ETR': 2, 'VZ': 1, 'MCK': 3, 'LLY': 4, 'WYNN': 1, 'CINF': 3, 'COF': 1, 'GPN': 3, 'JNPR': 2, 'MDT': 1, 'IP': 2, 'ANET': 2, 'EG': 1, 'SMCI': 2, 'UBER': 4, 'ADSK': 2, 'ALL': 2, 'CRM': 1, 'KLAC': 1, 'DIS': 1, 'MSFT': 1, 'ISRG': 2, 'FTNT': 1, 'HAL': 1}
+Updated Inventory Value: 10162.86
+Updated Balance: 72
+
+No stocks with a buying signal for the date 2024-01-29.
+--------------------------------------------------------------------------------------
+
+==================================================
+|                   Iteration  4                   |
+==================================================
+
+Date: 2024-01-02
+Available (with buy signal): ['C', 'BIIB', 'MOH', 'SJM', 'VTRS', 'MRNA', 'ANSS', 'CI', 'MNST', 'AMGN', 'CTLT', 'WYNN', 'PNW', 'EVRG', 'MO', 'INTC', 'DLTR', 'JCI', 'D', 'DD', 'RVTY', 'PM', 'MRK', 'AIG', 'INCY', 'CNC', 'PPL', 'DGX', 'PFE', 'HSY', 'AEP', 'ED', 'GILD', 'DG', 'MTCH', 'PSA', 'CVS', 'ENPH', 'MCK', 'CPB', 'DELL', 'FMC', 'LVS', 'CNP', 'GIS', 'T', 'TSN', 'FE', 'ETR', 'EXC', 'EXR', 'K']
+Purchase: {'DLTR': 1, 'K': 1, 'HSY': 2}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2}
+Updated Inventory Value: 584.36
+Updated Balance: 9413
+
+
+Date: 2024-01-03
+Available (with buy signal): ['C', 'MOH', 'SJM', 'VTRS', 'MRNA', 'AMGN', 'EOG', 'WYNN', 'PNW', 'EVRG', 'INTC', 'D', 'PM', 'MRK', 'INCY', 'ES', 'CNC', 'PPL', 'WMB', 'PFE', 'HSY', 'AEP', 'ED', 'GILD', 'JNJ', 'JNPR', 'MCK', 'LLY', 'CPB', 'CF', 'ALL', 'DUK', 'LVS', 'CNP', 'GIS', 'REGN', 'T', 'TSN', 'HES', 'SO', 'FE', 'ETR', 'K']
+Purchase: {'ES': 1, 'HES': 1, 'MCK': 1}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1}
+Updated Inventory Value: 1270.32
+Updated Balance: 8717
+
+
+Date: 2024-01-04
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'AMGN', 'WYNN', 'PNW', 'EVRG', 'PM', 'MRK', 'INCY', 'CNC', 'CAH', 'HSY', 'AEP', 'ABBV', 'ED', 'GILD', 'VZ', 'MCK', 'LLY', 'ALL', 'CNP', 'REGN', 'T', 'SO', 'FE']
+Purchase: {'MRK': 1, 'VTRS': 1, 'ED': 1}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 1, 'VTRS': 1, 'ED': 1}
+Updated Inventory Value: 1479.02
+Updated Balance: 8492
+
+
+Date: 2024-01-05
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'KHC', 'CI', 'AMGN', 'WYNN', 'PNW', 'COR', 'CINF', 'D', 'MRK', 'TMUS', 'INCY', 'CNC', 'UAL', 'DGX', 'CAH', 'MET', 'AEP', 'ABBV', 'ED', 'WRB', 'FITB', 'VZ', 'MCK', 'LLY', 'ALL', 'REGN', 'T', 'TSN', 'WEC', 'FE', 'BSX', 'ETR']
+Purchase: {'DGX': 1, 'FITB': 1, 'TSN': 2}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 1, 'VTRS': 1, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2}
+Updated Inventory Value: 1763.49
+Updated Balance: 8202
+
+
+Date: 2024-01-08
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'COF', 'KHC', 'CI', 'AMGN', 'WYNN', 'DAL', 'FIS', 'CINF', 'D', 'TFC', 'MRK', 'BAX', 'UAL', 'MET', 'AEP', 'EG', 'ABBV', 'DVA', 'WRB', 'MTCH', 'FITB', 'VZ', 'GPN', 'JNPR', 'IP', 'MCK', 'LLY', 'NEE', 'DXCM', 'ALL', 'LVS', 'REGN', 'MDT', 'FE', 'ETR']
+Purchase: {'ABBV': 1, 'AMGN': 2, 'GPN': 1}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 1, 'VTRS': 1, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1}
+Updated Inventory Value: 2686.57
+Updated Balance: 7283
+
+
+Date: 2024-01-09
+Available (with buy signal): ['MOH', 'VTRS', 'MRNA', 'SMCI', 'AMGN', 'CTLT', 'NVDA', 'DAL', 'MRK', 'BAX', 'CNC', 'UAL', 'MET', 'EG', 'PGR', 'GILD', 'MTCH', 'CRWD', 'JNPR', 'IP', 'MCK', 'LLY', 'DXCM', 'ALL', 'REGN', 'STZ', 'MDT', 'FE', 'BSX', 'RMD']
+Purchase: {'CRWD': 1, 'JNPR': 1, 'UAL': 1}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 1, 'VTRS': 1, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1, 'CRWD': 1, 'JNPR': 1, 'UAL': 1}
+Updated Inventory Value: 3033.94
+Updated Balance: 6926
+
+
+Date: 2024-01-10
+Available (with buy signal): ['PANW', 'VTRS', 'MRNA', 'SMCI', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'DAL', 'TAP', 'MRK', 'DHI', 'HAS', 'BAX', 'UBER', 'FICO', 'UAL', 'MET', 'EG', 'ABBV', 'PGR', 'DVA', 'MTCH', 'CRWD', 'GPN', 'JNPR', 'IP', 'MCK', 'AON', 'ADSK', 'LLY', 'MHK', 'DXCM', 'ALL', 'LUV', 'STZ', 'MDT', 'FE', 'BSX', 'RMD']
+Purchase: {'MRK': 1, 'VTRS': 1, 'MET': 2}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 2, 'VTRS': 2, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1, 'CRWD': 1, 'JNPR': 1, 'UAL': 1, 'MET': 2}
+Updated Inventory Value: 3301.15
+Updated Balance: 6653
+
+
+Date: 2024-01-11
+Available (with buy signal): ['PANW', 'VTRS', 'SMCI', 'ISRG', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'COR', 'DAL', 'TAP', 'MRK', 'DHI', 'UBER', 'FICO', 'CNC', 'UAL', 'FTNT', 'EG', 'ABBV', 'PGR', 'DVA', 'LEN', 'CRWD', 'JNPR', 'GEN', 'IP', 'MCK', 'ADSK', 'LLY', 'AVGO', 'DXCM', 'ALL', 'VRTX', 'LUV', 'STZ', 'CTSH', 'MDT', 'BSX', 'RMD']
+Purchase: {'NVDA': 2, 'AVGO': 1, 'IP': 1}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 2, 'VTRS': 2, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1, 'CRWD': 1, 'JNPR': 1, 'UAL': 1, 'MET': 2, 'NVDA': 2, 'AVGO': 1, 'IP': 1}
+Updated Inventory Value: 3553.28
+Updated Balance: 6393
+
+
+Date: 2024-01-12
+Available (with buy signal): ['PANW', 'SYK', 'VTRS', 'SMCI', 'ISRG', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'COR', 'DOC', 'MRK', 'URI', 'IBM', 'UBER', 'FICO', 'FTNT', 'PGR', 'GILD', 'CRWD', 'AJG', 'JNPR', 'GEN', 'ADSK', 'LLY', 'AVGO', 'META', 'AMZN', 'ALL', 'VRTX', 'DLR', 'STZ', 'CTSH', 'MDT', 'BSX', 'CRM']
+Purchase: {'VTRS': 1, 'MRK': 1, 'GILD': 1}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 3, 'VTRS': 3, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1, 'CRWD': 1, 'JNPR': 1, 'UAL': 1, 'MET': 2, 'NVDA': 2, 'AVGO': 1, 'IP': 1, 'GILD': 1}
+Updated Inventory Value: 3766.61
+Updated Balance: 6173
+
+
+Date: 2024-01-16
+Available (with buy signal): ['PANW', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'COR', 'DOC', 'AMAT', 'BK', 'MRK', 'URI', 'IBM', 'QCOM', 'UBER', 'FICO', 'STX', 'AMD', 'FTNT', 'PGR', 'BRO', 'CRWD', 'MU', 'DECK', 'ADSK', 'LLY', 'AVGO', 'DIS', 'META', 'ALL', 'VRTX', 'DLR', 'STZ', 'DPZ', 'MSFT', 'KLAC', 'CTSH', 'CRM']
+Purchase: {'DPZ': 1, 'SYK': 1, 'ANET': 1}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 3, 'VTRS': 3, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1, 'CRWD': 1, 'JNPR': 1, 'UAL': 1, 'MET': 2, 'NVDA': 2, 'AVGO': 1, 'IP': 1, 'GILD': 1, 'DPZ': 1, 'SYK': 1, 'ANET': 1}
+Updated Inventory Value: 4752.59
+Updated Balance: 5177
+
+
+Date: 2024-01-17
+Available (with buy signal): ['PANW', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'NOW', 'BK', 'CDNS', 'IBM', 'GDDY', 'UBER', 'FICO', 'AMD', 'FTNT', 'BRO', 'CRWD', 'DECK', 'META', 'VRTX', 'DPZ', 'MSFT', 'BSX', 'CRM']
+Purchase: {'VRTX': 2, 'AMD': 1, 'CDNS': 1}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 3, 'VTRS': 3, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1, 'CRWD': 1, 'JNPR': 1, 'UAL': 1, 'MET': 2, 'NVDA': 2, 'AVGO': 1, 'IP': 1, 'GILD': 1, 'DPZ': 1, 'SYK': 1, 'ANET': 1, 'VRTX': 2, 'AMD': 1, 'CDNS': 1}
+Updated Inventory Value: 6025.56
+Updated Balance: 3871
+
+
+Date: 2024-01-18
+Available (with buy signal): ['PANW', 'CBOE', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'NOW', 'AMAT', 'BK', 'CDNS', 'COST', 'TDG', 'GDDY', 'AZO', 'QCOM', 'UBER', 'FICO', 'AMD', 'FAST', 'BRO', 'CRWD', 'ORCL', 'DECK', 'GWW', 'AON', 'AVGO', 'META', 'IT', 'LUV', 'TSCO', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'BSX', 'CRM', 'ACN']
+Purchase: {'DPZ': 1, 'FICO': 1, 'ANET': 3}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 3, 'VTRS': 3, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1, 'CRWD': 1, 'JNPR': 1, 'UAL': 1, 'MET': 2, 'NVDA': 2, 'AVGO': 1, 'IP': 1, 'GILD': 1, 'DPZ': 2, 'SYK': 1, 'ANET': 4, 'VRTX': 2, 'AMD': 1, 'CDNS': 1, 'FICO': 1}
+Updated Inventory Value: 8509.48
+Updated Balance: 1418
+
+
+Date: 2024-01-19
+Available (with buy signal): ['PANW', 'CBOE', 'TXN', 'HD', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'AMAT', 'BK', 'CDNS', 'COST', 'URI', 'IBM', 'TDG', 'GDDY', 'AZO', 'CDW', 'QCOM', 'UBER', 'FICO', 'STX', 'TER', 'AMD', 'INTU', 'FAST', 'AXON', 'BRO', 'CRWD', 'ORCL', 'MU', 'BLDR', 'TRV', 'JBHT', 'AJG', 'DECK', 'GEN', 'GWW', 'AON', 'ADSK', 'AVGO', 'DIS', 'META', 'MCHP', 'DELL', 'TYL', 'IT', 'MPWR', 'ADBE', 'LUV', 'TSCO', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'GOOGL', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'RCL']
+Purchase: {'DECK': 1, 'BK': 1, 'ADI': 1}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 3, 'VTRS': 3, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1, 'CRWD': 1, 'JNPR': 1, 'UAL': 1, 'MET': 2, 'NVDA': 2, 'AVGO': 1, 'IP': 1, 'GILD': 1, 'DPZ': 2, 'SYK': 1, 'ANET': 4, 'VRTX': 2, 'AMD': 1, 'CDNS': 1, 'FICO': 1, 'DECK': 1, 'BK': 1, 'ADI': 1}
+Updated Inventory Value: 8966.84
+Updated Balance: 1041
+
+1 failed attempt for a purchase for 2024-01-22.
+
+
+Date: 2024-01-22
+Available (with buy signal): ['C', 'HAL', 'PANW', 'CBOE', 'TXN', 'DAY', 'COF', 'SMCI', 'ISRG', 'WDC', 'ANET', 'RF', 'ACGL', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'WAT', 'AMAT', 'NTAP', 'EMR', 'DHI', 'CDNS', 'CPRT', 'URI', 'IBM', 'TDG', 'GDDY', 'AZO', 'AIG', 'ALLE', 'QCOM', 'FICO', 'STX', 'TER', 'AMD', 'INTU', 'FAST', 'AKAM', 'AXON', 'MTD', 'SWKS', 'PH', 'BRO', 'PYPL', 'CRWD', 'ORCL', 'MU', 'BLDR', 'TRV', 'JBHT', 'FFIV', 'RL', 'FTV', 'DECK', 'GEN', 'GWW', 'KEY', 'ADSK', 'AVGO', 'NVR', 'DIS', 'CRL', 'META', 'MCHP', 'DELL', 'TYL', 'IT', 'QRVO', 'DLR', 'MPWR', 'ODFL', 'LUV', 'TSCO', 'NXPI', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'GOOGL', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PLTR', 'PCAR']
+Purchase: {'NTAP': 2, 'AXON': 2, 'MU': 1}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 3, 'VTRS': 3, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1, 'CRWD': 1, 'JNPR': 1, 'UAL': 1, 'MET': 2, 'NVDA': 2, 'AVGO': 1, 'IP': 1, 'GILD': 1, 'DPZ': 2, 'SYK': 1, 'ANET': 4, 'VRTX': 2, 'AMD': 1, 'CDNS': 1, 'FICO': 1, 'DECK': 1, 'BK': 1, 'ADI': 1, 'NTAP': 2, 'AXON': 2, 'MU': 1}
+Updated Inventory Value: 9813.94
+Updated Balance: 252
+
+1 failed attempt for a purchase for 2024-01-23.
+
+2 failed attempt for a purchase for 2024-01-23.
+
+3 failed attempt for a purchase for 2024-01-23.
+
+4 failed attempt for a purchase for 2024-01-23.
+
+5 failed attempt for a purchase for 2024-01-23.
+
+6 failed attempt for a purchase for 2024-01-23.
+
+7 failed attempt for a purchase for 2024-01-23.
+
+
+Date: 2024-01-23
+Available (with buy signal): ['C', 'HAL', 'PANW', 'F', 'CBOE', 'TXN', 'DAY', 'COF', 'SMCI', 'AXP', 'ISRG', 'WDC', 'ANET', 'RF', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'WAT', 'AMAT', 'NSC', 'NTAP', 'CDNS', 'CPRT', 'URI', 'IBM', 'TDG', 'AZO', 'AIG', 'MSI', 'ALLE', 'CB', 'QCOM', 'FICO', 'STX', 'TER', 'UAL', 'AMD', 'INTU', 'FAST', 'AKAM', 'MTD', 'SWKS', 'BRO', 'WRB', 'ALB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'FTV', 'DECK', 'GWW', 'KEY', 'ADSK', 'AVGO', 'RTX', 'DIS', 'META', 'MCHP', 'TYL', 'IT', 'QRVO', 'GIS', 'MPWR', 'ITW', 'LUV', 'NXPI', 'T', 'LRCX', 'WFC', 'MSFT', 'KLAC', 'SLB', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PLTR', 'PCAR']
+Purchase: {'C': 1, 'T': 2, 'AIG': 2}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 3, 'VTRS': 3, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1, 'CRWD': 1, 'JNPR': 1, 'UAL': 1, 'MET': 2, 'NVDA': 2, 'AVGO': 1, 'IP': 1, 'GILD': 1, 'DPZ': 2, 'SYK': 1, 'ANET': 4, 'VRTX': 2, 'AMD': 1, 'CDNS': 1, 'FICO': 1, 'DECK': 1, 'BK': 1, 'ADI': 1, 'NTAP': 2, 'AXON': 2, 'MU': 1, 'C': 1, 'T': 2, 'AIG': 2}
+Updated Inventory Value: 10009.6
+Updated Balance: 23
+
+1 failed attempt for a purchase for 2024-01-24.
+
+2 failed attempt for a purchase for 2024-01-24.
+
+3 failed attempt for a purchase for 2024-01-24.
+
+4 failed attempt for a purchase for 2024-01-24.
+
+5 failed attempt for a purchase for 2024-01-24.
+
+6 failed attempt for a purchase for 2024-01-24.
+
+7 failed attempt for a purchase for 2024-01-24.
+
+8 failed attempt for a purchase for 2024-01-24.
+
+9 failed attempt for a purchase for 2024-01-24.
+
+10 failed attempt for a purchase for 2024-01-24.
+
+
+Date: 2024-01-24
+Available (with buy signal): ['C', 'HAL', 'PANW', 'CBOE', 'XOM', 'DAY', 'COF', 'SMCI', 'AXP', 'ISRG', 'WDC', 'ANET', 'RF', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'SNPS', 'NOW', 'CINF', 'AMAT', 'TFC', 'HBAN', 'APTV', 'CDNS', 'PTC', 'IBM', 'TDG', 'AZO', 'AIG', 'NFLX', 'MSI', 'CB', 'QCOM', 'STX', 'TER', 'UAL', 'AMD', 'CAT', 'INTU', 'FTNT', 'FAST', 'AKAM', 'SWKS', 'BRO', 'WRB', 'ALB', 'PYPL', 'FITB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'TXT', 'FTV', 'DECK', 'GWW', 'KEY', 'ADSK', 'AVGO', 'RTX', 'META', 'MCHP', 'DELL', 'TYL', 'PSX', 'TEL', 'GD', 'MPWR', 'LUV', 'NXPI', 'MAR', 'HES', 'LRCX', 'WFC', 'MSFT', 'KLAC', 'SLB', 'ADI', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 3, 'VTRS': 3, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1, 'CRWD': 1, 'JNPR': 1, 'UAL': 1, 'MET': 2, 'NVDA': 2, 'AVGO': 1, 'IP': 1, 'GILD': 1, 'DPZ': 2, 'SYK': 1, 'ANET': 4, 'VRTX': 2, 'AMD': 1, 'CDNS': 1, 'FICO': 1, 'DECK': 1, 'BK': 1, 'ADI': 1, 'NTAP': 2, 'AXON': 2, 'MU': 1, 'C': 1, 'T': 2, 'AIG': 2}
+Updated Inventory Value: 9952.57
+Updated Balance: 23
+
+1 failed attempt for a purchase for 2024-01-25.
+
+2 failed attempt for a purchase for 2024-01-25.
+
+3 failed attempt for a purchase for 2024-01-25.
+
+4 failed attempt for a purchase for 2024-01-25.
+
+5 failed attempt for a purchase for 2024-01-25.
+
+6 failed attempt for a purchase for 2024-01-25.
+
+7 failed attempt for a purchase for 2024-01-25.
+
+8 failed attempt for a purchase for 2024-01-25.
+
+9 failed attempt for a purchase for 2024-01-25.
+
+10 failed attempt for a purchase for 2024-01-25.
+
+
+Date: 2024-01-25
+Available (with buy signal): ['C', 'HAL', 'PANW', 'F', 'CBOE', 'NRG', 'XOM', 'DAY', 'COF', 'SMCI', 'AXP', 'WDC', 'ANET', 'RF', 'EOG', 'WYNN', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'SNPS', 'NOW', 'CVX', 'COP', 'AMAT', 'TFC', 'NTAP', 'HBAN', 'APTV', 'CDNS', 'PTC', 'URI', 'IBM', 'TDG', 'AZO', 'CEG', 'HAS', 'NFLX', 'ALLE', 'CB', 'EBAY', 'QCOM', 'UBER', 'STX', 'TER', 'UAL', 'APA', 'SYF', 'AMD', 'CMCSA', 'CAT', 'INTU', 'DVN', 'FTNT', 'FAST', 'APH', 'AKAM', 'PGR', 'BRO', 'WRB', 'MTCH', 'FITB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'TXT', 'RL', 'FTV', 'DECK', 'GEN', 'GWW', 'KEY', 'AVGO', 'RTX', 'FRT', 'META', 'DELL', 'CF', 'PSX', 'ALL', 'TEL', 'GD', 'LVS', 'IPG', 'DLR', 'TTWO', 'VLO', 'ITW', 'MKC', 'NXPI', 'MAR', 'T', 'HES', 'DFS', 'LRCX', 'WFC', 'KLAC', 'MS', 'CTSH', 'GOOGL', 'PARA', 'SLB', 'AAPL', 'ACN', 'GOOG', 'MTB', 'RMD', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 3, 'VTRS': 3, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1, 'CRWD': 1, 'JNPR': 1, 'UAL': 1, 'MET': 2, 'NVDA': 2, 'AVGO': 1, 'IP': 1, 'GILD': 1, 'DPZ': 2, 'SYK': 1, 'ANET': 4, 'VRTX': 2, 'AMD': 1, 'CDNS': 1, 'FICO': 1, 'DECK': 1, 'BK': 1, 'ADI': 1, 'NTAP': 2, 'AXON': 2, 'MU': 1, 'C': 1, 'T': 2, 'AIG': 2}
+Updated Inventory Value: 10004.85
+Updated Balance: 23
+
+1 failed attempt for a purchase for 2024-01-26.
+
+2 failed attempt for a purchase for 2024-01-26.
+
+3 failed attempt for a purchase for 2024-01-26.
+
+4 failed attempt for a purchase for 2024-01-26.
+
+5 failed attempt for a purchase for 2024-01-26.
+
+6 failed attempt for a purchase for 2024-01-26.
+
+7 failed attempt for a purchase for 2024-01-26.
+
+8 failed attempt for a purchase for 2024-01-26.
+
+9 failed attempt for a purchase for 2024-01-26.
+
+10 failed attempt for a purchase for 2024-01-26.
+
+
+Date: 2024-01-26
+Available (with buy signal): ['C', 'HAL', 'F', 'NRG', 'XOM', 'COF', 'SMCI', 'AXP', 'WDC', 'RF', 'BRK-B', 'CTLT', 'EOG', 'WYNN', 'PNW', 'HLT', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'NOW', 'CVX', 'COP', 'TFC', 'HBAN', 'APTV', 'CDNS', 'URI', 'IBM', 'TDG', 'AZO', 'CEG', 'HAS', 'NFLX', 'ABNB', 'CB', 'EBAY', 'IFF', 'STX', 'UAL', 'APA', 'SYF', 'AMD', 'CMCSA', 'CAT', 'WMB', 'INTU', 'DVN', 'FTNT', 'FAST', 'TRGP', 'PGR', 'BRO', 'WRB', 'MTCH', 'FITB', 'ORCL', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'MPC', 'CSGP', 'TXT', 'RL', 'DECK', 'IP', 'KEY', 'RTX', 'FRT', 'CRL', 'META', 'DELL', 'CF', 'PSX', 'ALL', 'TEL', 'GD', 'LVS', 'IPG', 'DLR', 'VLO', 'MKC', 'MAR', 'CTRA', 'T', 'HES', 'DFS', 'LRCX', 'WFC', 'MS', 'GOOGL', 'PARA', 'SLB', 'ACN', 'GOOG', 'RMD', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'DLTR': 1, 'K': 1, 'HSY': 2, 'ES': 1, 'HES': 1, 'MCK': 1, 'MRK': 3, 'VTRS': 3, 'ED': 1, 'DGX': 1, 'FITB': 1, 'TSN': 2, 'ABBV': 1, 'AMGN': 2, 'GPN': 1, 'CRWD': 1, 'JNPR': 1, 'UAL': 1, 'MET': 2, 'NVDA': 2, 'AVGO': 1, 'IP': 1, 'GILD': 1, 'DPZ': 2, 'SYK': 1, 'ANET': 4, 'VRTX': 2, 'AMD': 1, 'CDNS': 1, 'FICO': 1, 'DECK': 1, 'BK': 1, 'ADI': 1, 'NTAP': 2, 'AXON': 2, 'MU': 1, 'C': 1, 'T': 2, 'AIG': 2}
+Updated Inventory Value: 9912.69
+Updated Balance: 23
+
+No stocks with a buying signal for the date 2024-01-29.
+--------------------------------------------------------------------------------------
+
+==================================================
+|                   Iteration  5                   |
+==================================================
+
+Date: 2024-01-02
+Available (with buy signal): ['C', 'BIIB', 'MOH', 'SJM', 'VTRS', 'MRNA', 'ANSS', 'CI', 'MNST', 'AMGN', 'CTLT', 'WYNN', 'PNW', 'EVRG', 'MO', 'INTC', 'DLTR', 'JCI', 'D', 'DD', 'RVTY', 'PM', 'MRK', 'AIG', 'INCY', 'CNC', 'PPL', 'DGX', 'PFE', 'HSY', 'AEP', 'ED', 'GILD', 'DG', 'MTCH', 'PSA', 'CVS', 'ENPH', 'MCK', 'CPB', 'DELL', 'FMC', 'LVS', 'CNP', 'GIS', 'T', 'TSN', 'FE', 'ETR', 'EXC', 'EXR', 'K']
+Purchase: {'CNP': 1, 'INTC': 1, 'PPL': 1}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1}
+Updated Inventory Value: 104.32
+Updated Balance: 9893
+
+
+Date: 2024-01-03
+Available (with buy signal): ['C', 'MOH', 'SJM', 'VTRS', 'MRNA', 'AMGN', 'EOG', 'WYNN', 'PNW', 'EVRG', 'INTC', 'D', 'PM', 'MRK', 'INCY', 'ES', 'CNC', 'PPL', 'WMB', 'PFE', 'HSY', 'AEP', 'ED', 'GILD', 'JNJ', 'JNPR', 'MCK', 'LLY', 'CPB', 'CF', 'ALL', 'DUK', 'LVS', 'CNP', 'GIS', 'REGN', 'T', 'TSN', 'HES', 'SO', 'FE', 'ETR', 'K']
+Purchase: {'T': 1, 'LVS': 1, 'GILD': 1}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1}
+Updated Inventory Value: 255.22
+Updated Balance: 9738
+
+
+Date: 2024-01-04
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'AMGN', 'WYNN', 'PNW', 'EVRG', 'PM', 'MRK', 'INCY', 'CNC', 'CAH', 'HSY', 'AEP', 'ABBV', 'ED', 'GILD', 'VZ', 'MCK', 'LLY', 'ALL', 'CNP', 'REGN', 'T', 'SO', 'FE']
+Purchase: {'ALL': 2, 'VTRS': 2, 'PNW': 1}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1}
+Updated Inventory Value: 649.87
+Updated Balance: 9341
+
+
+Date: 2024-01-05
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'KHC', 'CI', 'AMGN', 'WYNN', 'PNW', 'COR', 'CINF', 'D', 'MRK', 'TMUS', 'INCY', 'CNC', 'UAL', 'DGX', 'CAH', 'MET', 'AEP', 'ABBV', 'ED', 'WRB', 'FITB', 'VZ', 'MCK', 'LLY', 'ALL', 'REGN', 'T', 'TSN', 'WEC', 'FE', 'BSX', 'ETR']
+Purchase: {'ETR': 1, 'MOH': 2, 'C': 1}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1}
+Updated Inventory Value: 1569.17
+Updated Balance: 8422
+
+
+Date: 2024-01-08
+Available (with buy signal): ['C', 'MOH', 'VTRS', 'MRNA', 'COF', 'KHC', 'CI', 'AMGN', 'WYNN', 'DAL', 'FIS', 'CINF', 'D', 'TFC', 'MRK', 'BAX', 'UAL', 'MET', 'AEP', 'EG', 'ABBV', 'DVA', 'WRB', 'MTCH', 'FITB', 'VZ', 'GPN', 'JNPR', 'IP', 'MCK', 'LLY', 'NEE', 'DXCM', 'ALL', 'LVS', 'REGN', 'MDT', 'FE', 'ETR']
+Purchase: {'NEE': 1, 'D': 2, 'AEP': 2}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2}
+Updated Inventory Value: 1899.8
+Updated Balance: 8089
+
+
+Date: 2024-01-09
+Available (with buy signal): ['MOH', 'VTRS', 'MRNA', 'SMCI', 'AMGN', 'CTLT', 'NVDA', 'DAL', 'MRK', 'BAX', 'CNC', 'UAL', 'MET', 'EG', 'PGR', 'GILD', 'MTCH', 'CRWD', 'JNPR', 'IP', 'MCK', 'LLY', 'DXCM', 'ALL', 'REGN', 'STZ', 'MDT', 'FE', 'BSX', 'RMD']
+Purchase: {'DXCM': 1, 'MTCH': 1, 'STZ': 2}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2, 'DXCM': 1, 'MTCH': 1, 'STZ': 2}
+Updated Inventory Value: 2578.61
+Updated Balance: 7411
+
+
+Date: 2024-01-10
+Available (with buy signal): ['PANW', 'VTRS', 'MRNA', 'SMCI', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'DAL', 'TAP', 'MRK', 'DHI', 'HAS', 'BAX', 'UBER', 'FICO', 'UAL', 'MET', 'EG', 'ABBV', 'PGR', 'DVA', 'MTCH', 'CRWD', 'GPN', 'JNPR', 'IP', 'MCK', 'AON', 'ADSK', 'LLY', 'MHK', 'DXCM', 'ALL', 'LUV', 'STZ', 'MDT', 'FE', 'BSX', 'RMD']
+Purchase: {'MRNA': 1, 'AON': 1, 'DXCM': 1}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2, 'DXCM': 2, 'MTCH': 1, 'STZ': 2, 'MRNA': 1, 'AON': 1}
+Updated Inventory Value: 3106.52
+Updated Balance: 6871
+
+
+Date: 2024-01-11
+Available (with buy signal): ['PANW', 'VTRS', 'SMCI', 'ISRG', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'COR', 'DAL', 'TAP', 'MRK', 'DHI', 'UBER', 'FICO', 'CNC', 'UAL', 'FTNT', 'EG', 'ABBV', 'PGR', 'DVA', 'LEN', 'CRWD', 'JNPR', 'GEN', 'IP', 'MCK', 'ADSK', 'LLY', 'AVGO', 'DXCM', 'ALL', 'VRTX', 'LUV', 'STZ', 'CTSH', 'MDT', 'BSX', 'RMD']
+Purchase: {'DVA': 1, 'COR': 1, 'JNPR': 1}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2, 'DXCM': 2, 'MTCH': 1, 'STZ': 2, 'MRNA': 1, 'AON': 1, 'DVA': 1, 'COR': 1, 'JNPR': 1}
+Updated Inventory Value: 3470.0
+Updated Balance: 6501
+
+
+Date: 2024-01-12
+Available (with buy signal): ['PANW', 'SYK', 'VTRS', 'SMCI', 'ISRG', 'ANET', 'AMGN', 'CTLT', 'NVDA', 'COR', 'DOC', 'MRK', 'URI', 'IBM', 'UBER', 'FICO', 'FTNT', 'PGR', 'GILD', 'CRWD', 'AJG', 'JNPR', 'GEN', 'ADSK', 'LLY', 'AVGO', 'META', 'AMZN', 'ALL', 'VRTX', 'DLR', 'STZ', 'CTSH', 'MDT', 'BSX', 'CRM']
+Purchase: {'FICO': 1, 'PANW': 1, 'AVGO': 1}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2, 'DXCM': 2, 'MTCH': 1, 'STZ': 2, 'MRNA': 1, 'AON': 1, 'DVA': 1, 'COR': 1, 'JNPR': 1, 'FICO': 1, 'PANW': 1, 'AVGO': 1}
+Updated Inventory Value: 5130.01
+Updated Balance: 4831
+
+
+Date: 2024-01-16
+Available (with buy signal): ['PANW', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'COR', 'DOC', 'AMAT', 'BK', 'MRK', 'URI', 'IBM', 'QCOM', 'UBER', 'FICO', 'STX', 'AMD', 'FTNT', 'PGR', 'BRO', 'CRWD', 'MU', 'DECK', 'ADSK', 'LLY', 'AVGO', 'DIS', 'META', 'ALL', 'VRTX', 'DLR', 'STZ', 'DPZ', 'MSFT', 'KLAC', 'CTSH', 'CRM']
+Purchase: {'VRTX': 2, 'CTSH': 1, 'META': 1}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2, 'DXCM': 2, 'MTCH': 1, 'STZ': 2, 'MRNA': 1, 'AON': 1, 'DVA': 1, 'COR': 1, 'JNPR': 1, 'FICO': 1, 'PANW': 1, 'AVGO': 1, 'VRTX': 2, 'CTSH': 1, 'META': 1}
+Updated Inventory Value: 6437.55
+Updated Balance: 3510
+
+
+Date: 2024-01-17
+Available (with buy signal): ['PANW', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'NOW', 'BK', 'CDNS', 'IBM', 'GDDY', 'UBER', 'FICO', 'AMD', 'FTNT', 'BRO', 'CRWD', 'DECK', 'META', 'VRTX', 'DPZ', 'MSFT', 'BSX', 'CRM']
+Purchase: {'FICO': 2, 'BRO': 1, 'FTNT': 1}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2, 'DXCM': 2, 'MTCH': 1, 'STZ': 2, 'MRNA': 1, 'AON': 1, 'DVA': 1, 'COR': 1, 'JNPR': 1, 'FICO': 3, 'PANW': 1, 'AVGO': 1, 'VRTX': 2, 'CTSH': 1, 'META': 1, 'BRO': 1, 'FTNT': 1}
+Updated Inventory Value: 9018.39
+Updated Balance: 911
+
+
+Date: 2024-01-18
+Available (with buy signal): ['PANW', 'CBOE', 'SYK', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'NOW', 'AMAT', 'BK', 'CDNS', 'COST', 'TDG', 'GDDY', 'AZO', 'QCOM', 'UBER', 'FICO', 'AMD', 'FAST', 'BRO', 'CRWD', 'ORCL', 'DECK', 'GWW', 'AON', 'AVGO', 'META', 'IT', 'LUV', 'TSCO', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'BSX', 'CRM', 'ACN']
+Purchase: {'CTLT': 2, 'MSFT': 1, 'AMAT': 1}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2, 'DXCM': 2, 'MTCH': 1, 'STZ': 2, 'MRNA': 1, 'AON': 1, 'DVA': 1, 'COR': 1, 'JNPR': 1, 'FICO': 3, 'PANW': 1, 'AVGO': 1, 'VRTX': 2, 'CTSH': 1, 'META': 1, 'BRO': 1, 'FTNT': 1, 'CTLT': 2, 'MSFT': 1, 'AMAT': 1}
+Updated Inventory Value: 9742.35
+Updated Balance: 257
+
+1 failed attempt for a purchase for 2024-01-19.
+
+2 failed attempt for a purchase for 2024-01-19.
+
+3 failed attempt for a purchase for 2024-01-19.
+
+
+Date: 2024-01-19
+Available (with buy signal): ['PANW', 'CBOE', 'TXN', 'HD', 'SMCI', 'ISRG', 'WDC', 'ANET', 'CTLT', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'AMAT', 'BK', 'CDNS', 'COST', 'URI', 'IBM', 'TDG', 'GDDY', 'AZO', 'CDW', 'QCOM', 'UBER', 'FICO', 'STX', 'TER', 'AMD', 'INTU', 'FAST', 'AXON', 'BRO', 'CRWD', 'ORCL', 'MU', 'BLDR', 'TRV', 'JBHT', 'AJG', 'DECK', 'GEN', 'GWW', 'AON', 'ADSK', 'AVGO', 'DIS', 'META', 'MCHP', 'DELL', 'TYL', 'IT', 'MPWR', 'ADBE', 'LUV', 'TSCO', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'GOOGL', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'RCL']
+Purchase: {'SMCI': 1, 'DIS': 1, 'TER': 1}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2, 'DXCM': 2, 'MTCH': 1, 'STZ': 2, 'MRNA': 1, 'AON': 1, 'DVA': 1, 'COR': 1, 'JNPR': 1, 'FICO': 3, 'PANW': 1, 'AVGO': 1, 'VRTX': 2, 'CTSH': 1, 'META': 1, 'BRO': 1, 'FTNT': 1, 'CTLT': 2, 'MSFT': 1, 'AMAT': 1, 'SMCI': 1, 'DIS': 1, 'TER': 1}
+Updated Inventory Value: 10026.86
+Updated Balance: 9
+
+1 failed attempt for a purchase for 2024-01-22.
+
+2 failed attempt for a purchase for 2024-01-22.
+
+3 failed attempt for a purchase for 2024-01-22.
+
+4 failed attempt for a purchase for 2024-01-22.
+
+5 failed attempt for a purchase for 2024-01-22.
+
+6 failed attempt for a purchase for 2024-01-22.
+
+7 failed attempt for a purchase for 2024-01-22.
+
+8 failed attempt for a purchase for 2024-01-22.
+
+9 failed attempt for a purchase for 2024-01-22.
+
+10 failed attempt for a purchase for 2024-01-22.
+
+
+Date: 2024-01-22
+Available (with buy signal): ['C', 'HAL', 'PANW', 'CBOE', 'TXN', 'DAY', 'COF', 'SMCI', 'ISRG', 'WDC', 'ANET', 'RF', 'ACGL', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'WAT', 'AMAT', 'NTAP', 'EMR', 'DHI', 'CDNS', 'CPRT', 'URI', 'IBM', 'TDG', 'GDDY', 'AZO', 'AIG', 'ALLE', 'QCOM', 'FICO', 'STX', 'TER', 'AMD', 'INTU', 'FAST', 'AKAM', 'AXON', 'MTD', 'SWKS', 'PH', 'BRO', 'PYPL', 'CRWD', 'ORCL', 'MU', 'BLDR', 'TRV', 'JBHT', 'FFIV', 'RL', 'FTV', 'DECK', 'GEN', 'GWW', 'KEY', 'ADSK', 'AVGO', 'NVR', 'DIS', 'CRL', 'META', 'MCHP', 'DELL', 'TYL', 'IT', 'QRVO', 'DLR', 'MPWR', 'ODFL', 'LUV', 'TSCO', 'NXPI', 'DPZ', 'LRCX', 'MSFT', 'KLAC', 'GOOGL', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PLTR', 'PCAR']
+Purchase: {}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2, 'DXCM': 2, 'MTCH': 1, 'STZ': 2, 'MRNA': 1, 'AON': 1, 'DVA': 1, 'COR': 1, 'JNPR': 1, 'FICO': 3, 'PANW': 1, 'AVGO': 1, 'VRTX': 2, 'CTSH': 1, 'META': 1, 'BRO': 1, 'FTNT': 1, 'CTLT': 2, 'MSFT': 1, 'AMAT': 1, 'SMCI': 1, 'DIS': 1, 'TER': 1}
+Updated Inventory Value: 10124.78
+Updated Balance: 9
+
+1 failed attempt for a purchase for 2024-01-23.
+
+2 failed attempt for a purchase for 2024-01-23.
+
+3 failed attempt for a purchase for 2024-01-23.
+
+4 failed attempt for a purchase for 2024-01-23.
+
+5 failed attempt for a purchase for 2024-01-23.
+
+6 failed attempt for a purchase for 2024-01-23.
+
+7 failed attempt for a purchase for 2024-01-23.
+
+8 failed attempt for a purchase for 2024-01-23.
+
+9 failed attempt for a purchase for 2024-01-23.
+
+10 failed attempt for a purchase for 2024-01-23.
+
+
+Date: 2024-01-23
+Available (with buy signal): ['C', 'HAL', 'PANW', 'F', 'CBOE', 'TXN', 'DAY', 'COF', 'SMCI', 'AXP', 'ISRG', 'WDC', 'ANET', 'RF', 'NVDA', 'ORLY', 'SNPS', 'NOW', 'WAT', 'AMAT', 'NSC', 'NTAP', 'CDNS', 'CPRT', 'URI', 'IBM', 'TDG', 'AZO', 'AIG', 'MSI', 'ALLE', 'CB', 'QCOM', 'FICO', 'STX', 'TER', 'UAL', 'AMD', 'INTU', 'FAST', 'AKAM', 'MTD', 'SWKS', 'BRO', 'WRB', 'ALB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'FTV', 'DECK', 'GWW', 'KEY', 'ADSK', 'AVGO', 'RTX', 'DIS', 'META', 'MCHP', 'TYL', 'IT', 'QRVO', 'GIS', 'MPWR', 'ITW', 'LUV', 'NXPI', 'T', 'LRCX', 'WFC', 'MSFT', 'KLAC', 'SLB', 'ADI', 'CRM', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PLTR', 'PCAR']
+Purchase: {}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2, 'DXCM': 2, 'MTCH': 1, 'STZ': 2, 'MRNA': 1, 'AON': 1, 'DVA': 1, 'COR': 1, 'JNPR': 1, 'FICO': 3, 'PANW': 1, 'AVGO': 1, 'VRTX': 2, 'CTSH': 1, 'META': 1, 'BRO': 1, 'FTNT': 1, 'CTLT': 2, 'MSFT': 1, 'AMAT': 1, 'SMCI': 1, 'DIS': 1, 'TER': 1}
+Updated Inventory Value: 10113.59
+Updated Balance: 9
+
+1 failed attempt for a purchase for 2024-01-24.
+
+2 failed attempt for a purchase for 2024-01-24.
+
+3 failed attempt for a purchase for 2024-01-24.
+
+4 failed attempt for a purchase for 2024-01-24.
+
+5 failed attempt for a purchase for 2024-01-24.
+
+6 failed attempt for a purchase for 2024-01-24.
+
+7 failed attempt for a purchase for 2024-01-24.
+
+8 failed attempt for a purchase for 2024-01-24.
+
+9 failed attempt for a purchase for 2024-01-24.
+
+10 failed attempt for a purchase for 2024-01-24.
+
+
+Date: 2024-01-24
+Available (with buy signal): ['C', 'HAL', 'PANW', 'CBOE', 'XOM', 'DAY', 'COF', 'SMCI', 'AXP', 'ISRG', 'WDC', 'ANET', 'RF', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'SNPS', 'NOW', 'CINF', 'AMAT', 'TFC', 'HBAN', 'APTV', 'CDNS', 'PTC', 'IBM', 'TDG', 'AZO', 'AIG', 'NFLX', 'MSI', 'CB', 'QCOM', 'STX', 'TER', 'UAL', 'AMD', 'CAT', 'INTU', 'FTNT', 'FAST', 'AKAM', 'SWKS', 'BRO', 'WRB', 'ALB', 'PYPL', 'FITB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'TXT', 'FTV', 'DECK', 'GWW', 'KEY', 'ADSK', 'AVGO', 'RTX', 'META', 'MCHP', 'DELL', 'TYL', 'PSX', 'TEL', 'GD', 'MPWR', 'LUV', 'NXPI', 'MAR', 'HES', 'LRCX', 'WFC', 'MSFT', 'KLAC', 'SLB', 'ADI', 'AAPL', 'ACN', 'GOOG', 'MTB', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2, 'DXCM': 2, 'MTCH': 1, 'STZ': 2, 'MRNA': 1, 'AON': 1, 'DVA': 1, 'COR': 1, 'JNPR': 1, 'FICO': 3, 'PANW': 1, 'AVGO': 1, 'VRTX': 2, 'CTSH': 1, 'META': 1, 'BRO': 1, 'FTNT': 1, 'CTLT': 2, 'MSFT': 1, 'AMAT': 1, 'SMCI': 1, 'DIS': 1, 'TER': 1}
+Updated Inventory Value: 10073.22
+Updated Balance: 9
+
+1 failed attempt for a purchase for 2024-01-25.
+
+2 failed attempt for a purchase for 2024-01-25.
+
+3 failed attempt for a purchase for 2024-01-25.
+
+4 failed attempt for a purchase for 2024-01-25.
+
+5 failed attempt for a purchase for 2024-01-25.
+
+6 failed attempt for a purchase for 2024-01-25.
+
+7 failed attempt for a purchase for 2024-01-25.
+
+8 failed attempt for a purchase for 2024-01-25.
+
+9 failed attempt for a purchase for 2024-01-25.
+
+10 failed attempt for a purchase for 2024-01-25.
+
+
+Date: 2024-01-25
+Available (with buy signal): ['C', 'HAL', 'PANW', 'F', 'CBOE', 'NRG', 'XOM', 'DAY', 'COF', 'SMCI', 'AXP', 'WDC', 'ANET', 'RF', 'EOG', 'WYNN', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'SNPS', 'NOW', 'CVX', 'COP', 'AMAT', 'TFC', 'NTAP', 'HBAN', 'APTV', 'CDNS', 'PTC', 'URI', 'IBM', 'TDG', 'AZO', 'CEG', 'HAS', 'NFLX', 'ALLE', 'CB', 'EBAY', 'QCOM', 'UBER', 'STX', 'TER', 'UAL', 'APA', 'SYF', 'AMD', 'CMCSA', 'CAT', 'INTU', 'DVN', 'FTNT', 'FAST', 'APH', 'AKAM', 'PGR', 'BRO', 'WRB', 'MTCH', 'FITB', 'CRWD', 'ORCL', 'MU', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'TXT', 'RL', 'FTV', 'DECK', 'GEN', 'GWW', 'KEY', 'AVGO', 'RTX', 'FRT', 'META', 'DELL', 'CF', 'PSX', 'ALL', 'TEL', 'GD', 'LVS', 'IPG', 'DLR', 'TTWO', 'VLO', 'ITW', 'MKC', 'NXPI', 'MAR', 'T', 'HES', 'DFS', 'LRCX', 'WFC', 'KLAC', 'MS', 'CTSH', 'GOOGL', 'PARA', 'SLB', 'AAPL', 'ACN', 'GOOG', 'MTB', 'RMD', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2, 'DXCM': 2, 'MTCH': 1, 'STZ': 2, 'MRNA': 1, 'AON': 1, 'DVA': 1, 'COR': 1, 'JNPR': 1, 'FICO': 3, 'PANW': 1, 'AVGO': 1, 'VRTX': 2, 'CTSH': 1, 'META': 1, 'BRO': 1, 'FTNT': 1, 'CTLT': 2, 'MSFT': 1, 'AMAT': 1, 'SMCI': 1, 'DIS': 1, 'TER': 1}
+Updated Inventory Value: 10097.88
+Updated Balance: 9
+
+1 failed attempt for a purchase for 2024-01-26.
+
+2 failed attempt for a purchase for 2024-01-26.
+
+3 failed attempt for a purchase for 2024-01-26.
+
+4 failed attempt for a purchase for 2024-01-26.
+
+5 failed attempt for a purchase for 2024-01-26.
+
+6 failed attempt for a purchase for 2024-01-26.
+
+7 failed attempt for a purchase for 2024-01-26.
+
+8 failed attempt for a purchase for 2024-01-26.
+
+9 failed attempt for a purchase for 2024-01-26.
+
+10 failed attempt for a purchase for 2024-01-26.
+
+
+Date: 2024-01-26
+Available (with buy signal): ['C', 'HAL', 'F', 'NRG', 'XOM', 'COF', 'SMCI', 'AXP', 'WDC', 'RF', 'BRK-B', 'CTLT', 'EOG', 'WYNN', 'PNW', 'HLT', 'NVDA', 'DAL', 'BAC', 'ORLY', 'USB', 'NOW', 'CVX', 'COP', 'TFC', 'HBAN', 'APTV', 'CDNS', 'URI', 'IBM', 'TDG', 'AZO', 'CEG', 'HAS', 'NFLX', 'ABNB', 'CB', 'EBAY', 'IFF', 'STX', 'UAL', 'APA', 'SYF', 'AMD', 'CMCSA', 'CAT', 'WMB', 'INTU', 'DVN', 'FTNT', 'FAST', 'TRGP', 'PGR', 'BRO', 'WRB', 'MTCH', 'FITB', 'ORCL', 'TRV', 'JBHT', 'VZ', 'NWSA', 'NWS', 'MPC', 'CSGP', 'TXT', 'RL', 'DECK', 'IP', 'KEY', 'RTX', 'FRT', 'CRL', 'META', 'DELL', 'CF', 'PSX', 'ALL', 'TEL', 'GD', 'LVS', 'IPG', 'DLR', 'VLO', 'MKC', 'MAR', 'CTRA', 'T', 'HES', 'DFS', 'LRCX', 'WFC', 'MS', 'GOOGL', 'PARA', 'SLB', 'ACN', 'GOOG', 'RMD', 'PCAR', 'NUE', 'HIG']
+Purchase: {}
+Updated Inventory: {'CNP': 1, 'INTC': 1, 'PPL': 1, 'T': 1, 'LVS': 1, 'GILD': 1, 'ALL': 2, 'VTRS': 2, 'PNW': 1, 'ETR': 1, 'MOH': 2, 'C': 1, 'NEE': 1, 'D': 2, 'AEP': 2, 'DXCM': 2, 'MTCH': 1, 'STZ': 2, 'MRNA': 1, 'AON': 1, 'DVA': 1, 'COR': 1, 'JNPR': 1, 'FICO': 3, 'PANW': 1, 'AVGO': 1, 'VRTX': 2, 'CTSH': 1, 'META': 1, 'BRO': 1, 'FTNT': 1, 'CTLT': 2, 'MSFT': 1, 'AMAT': 1, 'SMCI': 1, 'DIS': 1, 'TER': 1}
+Updated Inventory Value: 9818.34
+Updated Balance: 9
+
+No stocks with a buying signal for the date 2024-01-29.
+--------------------------------------------------------------------------------------

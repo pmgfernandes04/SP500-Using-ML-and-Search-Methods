@@ -1,0 +1,60 @@
+Date: 2024-01-02
+Purchase: {'INTC': 2, 'ADBE': 2, 'NFLX': 1}
+Updated Inventory: {'INTC': 2, 'ADBE': 2, 'NFLX': 1}
+Updated Inventory Value: 1724.24
+Updated Balance: 98273
+
+Date: 2024-01-03
+Purchase: {'AMD': 1, 'TSLA': 1, 'CRM': 1}
+Updated Inventory: {'INTC': 2, 'ADBE': 2, 'NFLX': 1, 'AMD': 1, 'TSLA': 1, 'CRM': 1}
+Updated Inventory Value: 2333.55
+Updated Balance: 97644
+
+Date: 2024-01-04
+Purchase: {'INTC': 1, 'AMZN': 2, 'NVDA': 2}
+Updated Inventory: {'INTC': 3, 'ADBE': 2, 'NFLX': 1, 'AMD': 1, 'TSLA': 1, 'CRM': 1, 'AMZN': 2, 'NVDA': 2}
+Updated Inventory Value: 2759.7
+Updated Balance: 97209
+
+Date: 2024-01-05
+Purchase: {'NVDA': 1, 'SPGI': 2, 'META': 1}
+Updated Inventory: {'INTC': 3, 'ADBE': 2, 'NFLX': 1, 'AMD': 1, 'TSLA': 1, 'CRM': 1, 'AMZN': 2, 'NVDA': 3, 'SPGI': 2, 'META': 1}
+Updated Inventory Value: 4016.71
+Updated Balance: 95949
+
+Date: 2024-01-08
+Purchase: {'TSLA': 2, 'INTC': 2, 'PYPL': 1}
+Updated Inventory: {'INTC': 5, 'ADBE': 2, 'NFLX': 1, 'AMD': 1, 'TSLA': 3, 'CRM': 1, 'AMZN': 2, 'NVDA': 3, 'SPGI': 2, 'META': 1, 'PYPL': 1}
+Updated Inventory Value: 4756.47
+Updated Balance: 95307
+
+Date: 2024-01-09
+Purchase: {'PYPL': 1, 'SPGI': 1, 'GOOG': 2}
+Updated Inventory: {'INTC': 5, 'ADBE': 2, 'NFLX': 1, 'AMD': 1, 'TSLA': 3, 'CRM': 1, 'AMZN': 2, 'NVDA': 3, 'SPGI': 3, 'META': 1, 'PYPL': 2, 'GOOG': 2}
+Updated Inventory Value: 5527.54
+Updated Balance: 94527
+
+Date: 2024-01-10
+Purchase: {'SMCI': 1, 'AAPL': 1, 'MSFT': 1}
+Updated Inventory: {'INTC': 5, 'ADBE': 2, 'NFLX': 1, 'AMD': 1, 'TSLA': 3, 'CRM': 1, 'AMZN': 2, 'NVDA': 3, 'SPGI': 3, 'META': 1, 'PYPL': 2, 'GOOG': 2, 'SMCI': 1, 'AAPL': 1, 'MSFT': 1}
+Updated Inventory Value: 6165.32
+Updated Balance: 93921
+
+Date: 2024-01-11
+Purchase: {'TSLA': 2, 'GOOG': 1, 'ADBE': 2}
+Updated Inventory: {'INTC': 5, 'ADBE': 4, 'NFLX': 1, 'AMD': 1, 'TSLA': 5, 'CRM': 1, 'AMZN': 2, 'NVDA': 3, 'SPGI': 3, 'META': 1, 'PYPL': 2, 'GOOG': 3, 'SMCI': 1, 'AAPL': 1, 'MSFT': 1}
+Updated Inventory Value: 7981.21
+Updated Balance: 92125
+
+Date: 2024-01-12
+Purchase: {'CRM': 1, 'META': 1, 'AMD': 1}
+Updated Inventory: {'INTC': 5, 'ADBE': 4, 'NFLX': 1, 'AMD': 2, 'TSLA': 5, 'CRM': 2, 'AMZN': 2, 'NVDA': 3, 'SPGI': 3, 'META': 2, 'PYPL': 2, 'GOOG': 3, 'SMCI': 1, 'AAPL': 1, 'MSFT': 1}
+Updated Inventory Value: 8741.77
+Updated Balance: 91329
+
+Date: 2024-01-16
+Purchase: {'AAPL': 1, 'NFLX': 2, 'CRM': 2}
+Updated Inventory: {'INTC': 5, 'ADBE': 4, 'NFLX': 3, 'AMD': 2, 'TSLA': 5, 'CRM': 4, 'AMZN': 2, 'NVDA': 3, 'SPGI': 3, 'META': 2, 'PYPL': 2, 'GOOG': 3, 'SMCI': 1, 'AAPL': 2, 'MSFT': 1}
+Updated Inventory Value: 10422.86
+Updated Balance: 89642
+
